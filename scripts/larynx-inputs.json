@@ -1,0 +1,1296 @@
+{
+  "mirrorCommit": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "mapping": {
+    "file": "docs/model-source/FMA2Obj-4.3.tsv",
+    "sha256": "c3d16c891016da13447de2fc3241d05d92e8f9dc460e363233c03f420b935d4f"
+  },
+  "objects": [
+    {
+      "id": "FJ2772",
+      "file": "FJ2772.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2772_BP22977_FMA52749_Hyoid%20bone.obj",
+      "sha256": "0e29dd64fd4bca2c4c6e2079bf6df138f033f11faf2d3702ab5788b7e3357d49",
+      "bytes": 75198,
+      "mirrorPath": "meshes/FJ2772_BP22977_FMA52749_Hyoid bone.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2772_BP22977_FMA52749_Hyoid%20bone.obj"
+    },
+    {
+      "id": "FJ2808",
+      "file": "FJ2808.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2808_BP22917_FMA55099_Thyroid%20cartilage.obj",
+      "sha256": "7ee325a7e90428925aa6885abb683d9e06df2fe13f8f35f398a2ae6de1ec2a21",
+      "bytes": 161287,
+      "mirrorPath": "meshes/FJ2808_BP22917_FMA55099_Thyroid cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2808_BP22917_FMA55099_Thyroid%20cartilage.obj"
+    },
+    {
+      "id": "FJ2769",
+      "file": "FJ2769.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2769_BP22903_FMA9615_Cricoid%20cartilage.obj",
+      "sha256": "4c69ae5d7f1374691dec77b1cb4e096509727caa6c8e0a42238d0e1388db01e9",
+      "bytes": 105143,
+      "mirrorPath": "meshes/FJ2769_BP22903_FMA9615_Cricoid cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2769_BP22903_FMA9615_Cricoid%20cartilage.obj"
+    },
+    {
+      "id": "FJ2770",
+      "file": "FJ2770.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2770_BP21503_FMA55130_Epiglottis.obj",
+      "sha256": "71ee991574e3dc23ee1dd8122b0c14f2961b4df3d3ce9f13b706ff2f91c3491a",
+      "bytes": 294458,
+      "mirrorPath": "meshes/FJ2770_BP21503_FMA55130_Epiglottis.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2770_BP21503_FMA55130_Epiglottis.obj"
+    },
+    {
+      "id": "FJ2792",
+      "file": "FJ2792.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2792_BP22608_FMA55113_Right%20arytenoid%20cartilage.obj",
+      "sha256": "0b21781173a6de39a14ef7c56c4f171d6a0d6ebb87a1489ea46f3cc27d13d374",
+      "bytes": 31967,
+      "mirrorPath": "meshes/FJ2792_BP22608_FMA55113_Right arytenoid cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2792_BP22608_FMA55113_Right%20arytenoid%20cartilage.obj"
+    },
+    {
+      "id": "FJ2775",
+      "file": "FJ2775.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2775_BP23122_FMA55114_Left%20arytenoid%20cartilage.obj",
+      "sha256": "02eed5745be85712cd2ad3587c33e7308f1cebba1962c9c8b0bf90feeef146c4",
+      "bytes": 31671,
+      "mirrorPath": "meshes/FJ2775_BP23122_FMA55114_Left arytenoid cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2775_BP23122_FMA55114_Left%20arytenoid%20cartilage.obj"
+    },
+    {
+      "id": "FJ2793",
+      "file": "FJ2793.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2793_BP23108_FMA55115_Right%20corniculate%20cartilage.obj",
+      "sha256": "218c57b2d76014e88ba2b2d4a619755b5b5db7432b8d21c84d354a50cbb20583",
+      "bytes": 10817,
+      "mirrorPath": "meshes/FJ2793_BP23108_FMA55115_Right corniculate cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2793_BP23108_FMA55115_Right%20corniculate%20cartilage.obj"
+    },
+    {
+      "id": "FJ2776",
+      "file": "FJ2776.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2776_BP23329_FMA55116_Left%20corniculate%20cartilage.obj",
+      "sha256": "7ff4fce3599f0486e472274f7d92c4c86ffc90b8e19f0c1167bf3b09d346ca24",
+      "bytes": 9965,
+      "mirrorPath": "meshes/FJ2776_BP23329_FMA55116_Left corniculate cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2776_BP23329_FMA55116_Left%20corniculate%20cartilage.obj"
+    },
+    {
+      "id": "FJ2795",
+      "file": "FJ2795.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2795_BP23768_FMA55117_Right%20cuneiform%20cartilage.obj",
+      "sha256": "0ace0a3e69fe88acf2b00de3c30ae79ba4dab0e06d86d30ef7d1948736899c6c",
+      "bytes": 9491,
+      "mirrorPath": "meshes/FJ2795_BP23768_FMA55117_Right cuneiform cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2795_BP23768_FMA55117_Right%20cuneiform%20cartilage.obj"
+    },
+    {
+      "id": "FJ2773",
+      "file": "FJ2773.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2773_BP23027_FMA55118_Left%20cuneiform%20cartilage.obj",
+      "sha256": "774d5e7e0291235c14fec8dd1f8b5b47626aec9b76385dc89f4c2c51a4b4334e",
+      "bytes": 9679,
+      "mirrorPath": "meshes/FJ2773_BP23027_FMA55118_Left cuneiform cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2773_BP23027_FMA55118_Left%20cuneiform%20cartilage.obj"
+    },
+    {
+      "id": "FJ2804",
+      "file": "FJ2804.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2804_BP22908_FMA55133_Right%20thyrohyoid%20membrane.obj",
+      "sha256": "9d84b3f5906ac593979cccee9ec1613ba9455a75ac5e4c59e2fbaaacea2e01ea",
+      "bytes": 331779,
+      "mirrorPath": "meshes/FJ2804_BP22908_FMA55133_Right thyrohyoid membrane.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2804_BP22908_FMA55133_Right%20thyrohyoid%20membrane.obj"
+    },
+    {
+      "id": "FJ2786",
+      "file": "FJ2786.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2786_BP22886_FMA55134_Left%20thyrohyoid%20membrane.obj",
+      "sha256": "a44a2de0ed695e9e963d27081b364bd10bfaeb297b747d10034a97b1b8738b60",
+      "bytes": 330501,
+      "mirrorPath": "meshes/FJ2786_BP22886_FMA55134_Left thyrohyoid membrane.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2786_BP22886_FMA55134_Left%20thyrohyoid%20membrane.obj"
+    },
+    {
+      "id": "FJ2790",
+      "file": "FJ2790.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2790_BP23166_FMA55138_Median%20thyrohyoid%20ligament.obj",
+      "sha256": "5ba436f642744624bc0c2ef471588543ff33d5ec7f83a9c927484d99fcef8941",
+      "bytes": 199132,
+      "mirrorPath": "meshes/FJ2790_BP23166_FMA55138_Median thyrohyoid ligament.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2790_BP23166_FMA55138_Median%20thyrohyoid%20ligament.obj"
+    },
+    {
+      "id": "FJ2797",
+      "file": "FJ2797.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2797_BP24107_FMA55140_Right%20lateral%20thyrohyoid%20ligament.obj",
+      "sha256": "3e3c4ae9ca1a6e41c29b0247567db08406650063e4bdc8f1093cc2984a7b3da9",
+      "bytes": 61245,
+      "mirrorPath": "meshes/FJ2797_BP24107_FMA55140_Right lateral thyrohyoid ligament.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2797_BP24107_FMA55140_Right%20lateral%20thyrohyoid%20ligament.obj"
+    },
+    {
+      "id": "FJ2779",
+      "file": "FJ2779.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2779_BP23675_FMA55141_Left%20lateral%20thyrohyoid%20ligament.obj",
+      "sha256": "1e8826ffab1b4c762d2e4c4d69a79a3776df45bb465a78068a989ddfc3fded27",
+      "bytes": 60758,
+      "mirrorPath": "meshes/FJ2779_BP23675_FMA55141_Left lateral thyrohyoid ligament.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2779_BP23675_FMA55141_Left%20lateral%20thyrohyoid%20ligament.obj"
+    },
+    {
+      "id": "FJ2789",
+      "file": "FJ2789.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2789_BP22799_FMA55237_Median%20cricothyroid%20ligament.obj",
+      "sha256": "3585236255762b99978ec194b541944be7ea7cbe3456f86bc76a25d3cd253871",
+      "bytes": 165567,
+      "mirrorPath": "meshes/FJ2789_BP22799_FMA55237_Median cricothyroid ligament.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2789_BP22799_FMA55237_Median%20cricothyroid%20ligament.obj"
+    },
+    {
+      "id": "FJ2794",
+      "file": "FJ2794.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2794_BP21453_FMA55251_Right%20conus%20elasticus.obj",
+      "sha256": "783e134475ac215f3cffde929519b778ea1bb272888c9c8af19437a9bae28ec0",
+      "bytes": 391576,
+      "mirrorPath": "meshes/FJ2794_BP21453_FMA55251_Right conus elasticus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2794_BP21453_FMA55251_Right%20conus%20elasticus.obj"
+    },
+    {
+      "id": "FJ2777",
+      "file": "FJ2777.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2777_BP21521_FMA55252_Left%20conus%20elasticus.obj",
+      "sha256": "2770aa8e191b6f43d47fcb952fc326c9c380c73dc9c18cf9582abf85e940f9e3",
+      "bytes": 308756,
+      "mirrorPath": "meshes/FJ2777_BP21521_FMA55252_Left conus elasticus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2777_BP21521_FMA55252_Left%20conus%20elasticus.obj"
+    },
+    {
+      "id": "FJ2805",
+      "file": "FJ2805.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2805_BP22941_FMA55245_Right%20vocal%20ligament.obj",
+      "sha256": "a84e1c21797b9c2c5082d29e7617d8af1901a7dd60a3d0f4ba7f364d62d5296d",
+      "bytes": 136400,
+      "mirrorPath": "meshes/FJ2805_BP22941_FMA55245_Right vocal ligament.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2805_BP22941_FMA55245_Right%20vocal%20ligament.obj"
+    },
+    {
+      "id": "FJ2787",
+      "file": "FJ2787.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2787_BP22944_FMA55246_Left%20vocal%20ligament.obj",
+      "sha256": "e0050c71ea56d2926234367192b4949f6d9f91e83423e3ba839b79221b055b0d",
+      "bytes": 199372,
+      "mirrorPath": "meshes/FJ2787_BP22944_FMA55246_Left vocal ligament.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2787_BP22944_FMA55246_Left%20vocal%20ligament.obj"
+    },
+    {
+      "id": "FJ2771",
+      "file": "FJ2771.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2771_BP23637_FMA55227_Hyo-epiglottic%20ligament.obj",
+      "sha256": "e7225156102116a7d7d41cdf9914b6ae05c76a008fdaad2ccff002dc1cccd05e",
+      "bytes": 165808,
+      "mirrorPath": "meshes/FJ2771_BP23637_FMA55227_Hyo-epiglottic ligament.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2771_BP23637_FMA55227_Hyo-epiglottic%20ligament.obj"
+    },
+    {
+      "id": "FJ2807",
+      "file": "FJ2807.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2807_BP23708_FMA55230_Thyro-epiglottic%20ligament.obj",
+      "sha256": "7da59675e339cf28ccb83426f27a155b8d75c6708c5790d84b69aff1a8c3b110",
+      "bytes": 95497,
+      "mirrorPath": "meshes/FJ2807_BP23708_FMA55230_Thyro-epiglottic ligament.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2807_BP23708_FMA55230_Thyro-epiglottic%20ligament.obj"
+    },
+    {
+      "id": "FJ2801",
+      "file": "FJ2801.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2801_BP23271_FMA46611_Straight%20part%20of%20right%20cricothyroid.obj",
+      "sha256": "8ee4f967ba652fc2bdd79978d742e94d52926d296f7ef9c5c581a296e25a58f2",
+      "bytes": 237669,
+      "mirrorPath": "meshes/FJ2801_BP23271_FMA46611_Straight part of right cricothyroid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2801_BP23271_FMA46611_Straight%20part%20of%20right%20cricothyroid.obj"
+    },
+    {
+      "id": "FJ2783",
+      "file": "FJ2783.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2783_BP23159_FMA46612_Straight%20part%20of%20left%20cricothyroid.obj",
+      "sha256": "a0e5a4f879ff7523fcb3abbe7b14aa8d2ab0677d06970250838c902f5addcddd",
+      "bytes": 243730,
+      "mirrorPath": "meshes/FJ2783_BP23159_FMA46612_Straight part of left cricothyroid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2783_BP23159_FMA46612_Straight%20part%20of%20left%20cricothyroid.obj"
+    },
+    {
+      "id": "FJ2799",
+      "file": "FJ2799.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2799_BP23769_FMA46613_Oblique%20part%20of%20right%20cricothyroid.obj",
+      "sha256": "a2aab68ad19142917de1e7de832b50028f04268e2ec386edecf0cfea87ae6520",
+      "bytes": 391318,
+      "mirrorPath": "meshes/FJ2799_BP23769_FMA46613_Oblique part of right cricothyroid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2799_BP23769_FMA46613_Oblique%20part%20of%20right%20cricothyroid.obj"
+    },
+    {
+      "id": "FJ2781",
+      "file": "FJ2781.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2781_BP23340_FMA46614_Oblique%20part%20of%20left%20cricothyroid.obj",
+      "sha256": "bd2ab83c96be1f8cff6efbc279dd286bbe35a04de08b61ea28393936c349e1c6",
+      "bytes": 396463,
+      "mirrorPath": "meshes/FJ2781_BP23340_FMA46614_Oblique part of left cricothyroid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2781_BP23340_FMA46614_Oblique%20part%20of%20left%20cricothyroid.obj"
+    },
+    {
+      "id": "FJ2800",
+      "file": "FJ2800.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2800_BP20041_FMA46577_Right%20posterior%20crico-arytenoid.obj",
+      "sha256": "d4e7cd7a260aa3789062b3ddcf7a83c0991ce4e6ec7a96bf1f0a100fddcf8a18",
+      "bytes": 312307,
+      "mirrorPath": "meshes/FJ2800_BP20041_FMA46577_Right posterior crico-arytenoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2800_BP20041_FMA46577_Right%20posterior%20crico-arytenoid.obj"
+    },
+    {
+      "id": "FJ2782",
+      "file": "FJ2782.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2782_BP19585_FMA46578_Left%20posterior%20crico-arytenoid.obj",
+      "sha256": "980eaffab251fa8208c387fa3d92a62758f182c14f480048a0ab9b54c9de3970",
+      "bytes": 314144,
+      "mirrorPath": "meshes/FJ2782_BP19585_FMA46578_Left posterior crico-arytenoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2782_BP19585_FMA46578_Left%20posterior%20crico-arytenoid.obj"
+    },
+    {
+      "id": "FJ2796",
+      "file": "FJ2796.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2796_BP19550_FMA46580_Right%20lateral%20crico-arytenoid.obj",
+      "sha256": "2cf1d62e09cb500f0bc6564a2853f89d1064628e80ea9bbb200dcd81daf2191e",
+      "bytes": 418453,
+      "mirrorPath": "meshes/FJ2796_BP19550_FMA46580_Right lateral crico-arytenoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2796_BP19550_FMA46580_Right%20lateral%20crico-arytenoid.obj"
+    },
+    {
+      "id": "FJ2778",
+      "file": "FJ2778.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2778_BP20175_FMA46581_Left%20lateral%20crico-arytenoid.obj",
+      "sha256": "15fa9b170009723f4c5a547813af0ca2d3452a684d48366ad48cb496f48210e2",
+      "bytes": 417339,
+      "mirrorPath": "meshes/FJ2778_BP20175_FMA46581_Left lateral crico-arytenoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2778_BP20175_FMA46581_Left%20lateral%20crico-arytenoid.obj"
+    },
+    {
+      "id": "FJ2809",
+      "file": "FJ2809.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2809_BP23716_FMA46582_Transverse%20arytenoid.obj",
+      "sha256": "9b4cb0663aa32ed82a4845e44cd94653d87f3f140cd9fcdfdbcc9c37a4b11325",
+      "bytes": 508735,
+      "mirrorPath": "meshes/FJ2809_BP23716_FMA46582_Transverse arytenoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2809_BP23716_FMA46582_Transverse%20arytenoid.obj"
+    },
+    {
+      "id": "FJ2798",
+      "file": "FJ2798.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2798_BP20083_FMA46584_Right%20oblique%20arytenoid.obj",
+      "sha256": "c06659bafa75978a0f2a3f13d5d763e751cdcf652558c7f91b4170e3cd88fc1e",
+      "bytes": 451391,
+      "mirrorPath": "meshes/FJ2798_BP20083_FMA46584_Right oblique arytenoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2798_BP20083_FMA46584_Right%20oblique%20arytenoid.obj"
+    },
+    {
+      "id": "FJ2780",
+      "file": "FJ2780.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2780_BP19563_FMA46585_Left%20oblique%20arytenoid.obj",
+      "sha256": "fb820ce463a69dbc7ac626fd6c769890b0237ebe27b659a8501345de94e87b77",
+      "bytes": 467064,
+      "mirrorPath": "meshes/FJ2780_BP19563_FMA46585_Left oblique arytenoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2780_BP19563_FMA46585_Left%20oblique%20arytenoid.obj"
+    },
+    {
+      "id": "FJ2802",
+      "file": "FJ2802.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2802_BP20296_FMA46589_Right%20thyro-arytenoid.obj",
+      "sha256": "889d6c56845ae1dd64360d2cddc59314b980a238f66a7b1ba121e3792740c649",
+      "bytes": 418552,
+      "mirrorPath": "meshes/FJ2802_BP20296_FMA46589_Right thyro-arytenoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2802_BP20296_FMA46589_Right%20thyro-arytenoid.obj"
+    },
+    {
+      "id": "FJ2803",
+      "file": "FJ2803.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2803_BP20296_FMA46589_Right%20thyro-arytenoid.obj",
+      "sha256": "900b03c7a4df801258899cc7456e0c8003b9a712005994b70592e0d75a4a2990",
+      "bytes": 772770,
+      "mirrorPath": "meshes/FJ2803_BP20296_FMA46589_Right thyro-arytenoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2803_BP20296_FMA46589_Right%20thyro-arytenoid.obj"
+    },
+    {
+      "id": "FJ2784",
+      "file": "FJ2784.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2784_BP20249_FMA46590_Left%20thyro-arytenoid.obj",
+      "sha256": "3c1cf77021aacde53501fb621570a67455535104358f2b9c7ed2bd6ab4286827",
+      "bytes": 416183,
+      "mirrorPath": "meshes/FJ2784_BP20249_FMA46590_Left thyro-arytenoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2784_BP20249_FMA46590_Left%20thyro-arytenoid.obj"
+    },
+    {
+      "id": "FJ2785",
+      "file": "FJ2785.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2785_BP20249_FMA46590_Left%20thyro-arytenoid.obj",
+      "sha256": "69eeb533e0de4e9a3838802e23241e7c001ce105dfaa8e985fa6f45529b2d7a3",
+      "bytes": 669209,
+      "mirrorPath": "meshes/FJ2785_BP20249_FMA46590_Left thyro-arytenoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2785_BP20249_FMA46590_Left%20thyro-arytenoid.obj"
+    },
+    {
+      "id": "FJ2806",
+      "file": "FJ2806.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2806_BP20211_FMA46592_Right%20vocalis.obj",
+      "sha256": "b82494356232fa57d2914bbbd494c923568fbd05e592a100a7b9eea79d035390",
+      "bytes": 72675,
+      "mirrorPath": "meshes/FJ2806_BP20211_FMA46592_Right vocalis.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2806_BP20211_FMA46592_Right%20vocalis.obj"
+    },
+    {
+      "id": "FJ2788",
+      "file": "FJ2788.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2788_BP23926_FMA46593_Left%20vocalis.obj",
+      "sha256": "d40ccf123c20a945c2acfc0e4af9076c0dc1965c80122ac1f20301c54ee6e5a8",
+      "bytes": 73467,
+      "mirrorPath": "meshes/FJ2788_BP23926_FMA46593_Left vocalis.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2788_BP23926_FMA46593_Left%20vocalis.obj"
+    },
+    {
+      "id": "FJ2791",
+      "file": "FJ2791.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2791_BP23240_FMA46604_Right%20aryepiglotticus.obj",
+      "sha256": "36331befeac968088f1f89a3661765d3496259a0e2f34b16585858496e5f9047",
+      "bytes": 431363,
+      "mirrorPath": "meshes/FJ2791_BP23240_FMA46604_Right aryepiglotticus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2791_BP23240_FMA46604_Right%20aryepiglotticus.obj"
+    },
+    {
+      "id": "FJ2774",
+      "file": "FJ2774.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2774_BP23321_FMA46605_Left%20aryepiglotticus.obj",
+      "sha256": "9a814546fd7c1a149b1f0e3c5e13c4a1bce2440709ee052e0cc8f1c43c5e527b",
+      "bytes": 482354,
+      "mirrorPath": "meshes/FJ2774_BP23321_FMA46605_Left aryepiglotticus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2774_BP23321_FMA46605_Left%20aryepiglotticus.obj"
+    },
+    {
+      "id": "FJ2541",
+      "file": "FJ2541.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2541_BP21463_FMA7394_Trachea.obj",
+      "sha256": "a070da7f54750cdeb3d169f13f0f2f0c0c420c253aba9c3ce42fecc36cb4c799",
+      "bytes": 320579,
+      "mirrorPath": "meshes/FJ2541_BP21463_FMA7394_Trachea.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2541_BP21463_FMA7394_Trachea.obj"
+    },
+    {
+      "id": "FJ3672",
+      "file": "FJ3672.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3672_BP19828_FMA13368_Right%20lobe%20of%20thyroid%20gland.obj",
+      "sha256": "579d28267ec22b2536878fe2c78947f812d60e3ce3b9e5621f1faab7ce6f63f2",
+      "bytes": 1453612,
+      "mirrorPath": "meshes/FJ3672_BP19828_FMA13368_Right lobe of thyroid gland.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3672_BP19828_FMA13368_Right%20lobe%20of%20thyroid%20gland.obj"
+    },
+    {
+      "id": "FJ3671",
+      "file": "FJ3671.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3671_BP21433_FMA13369_Left%20lobe%20of%20thyroid%20gland.obj",
+      "sha256": "2a137c718b0f7f6150978730c78f9003db6dce5324e31ba5cb368d6ce7f57c58",
+      "bytes": 1338937,
+      "mirrorPath": "meshes/FJ3671_BP21433_FMA13369_Left lobe of thyroid gland.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3671_BP21433_FMA13369_Left%20lobe%20of%20thyroid%20gland.obj"
+    },
+    {
+      "id": "FJ3670",
+      "file": "FJ3670.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3670_BP21406_FMA49178_Isthmus%20of%20thyroid%20gland.obj",
+      "sha256": "798a3b54f78eb3cc20f118b914202855e003b252a7e479f022fe1c2d6b9b14c0",
+      "bytes": 493303,
+      "mirrorPath": "meshes/FJ3670_BP21406_FMA49178_Isthmus of thyroid gland.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3670_BP21406_FMA49178_Isthmus%20of%20thyroid%20gland.obj"
+    },
+    {
+      "id": "FJ1575",
+      "file": "FJ1575.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1575_BP23603_FMA13351_Left%20sternothyroid.obj",
+      "sha256": "d857c6c230012e6a71bf6c4c27a3dce6ce6980506824b94651c09f15a147f231",
+      "bytes": 172479,
+      "mirrorPath": "meshes/FJ1575_BP23603_FMA13351_Left sternothyroid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1575_BP23603_FMA13351_Left%20sternothyroid.obj"
+    },
+    {
+      "id": "FJ1597",
+      "file": "FJ1597.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1597_BP23662_FMA13350_Right%20sternothyroid.obj",
+      "sha256": "0a8247a34ad743ed4aa74052b59d4ef678c485f67922f2dedcf6208c1c60ce67",
+      "bytes": 175737,
+      "mirrorPath": "meshes/FJ1597_BP23662_FMA13350_Right sternothyroid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1597_BP23662_FMA13350_Right%20sternothyroid.obj"
+    },
+    {
+      "id": "FJ1577",
+      "file": "FJ1577.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1577_BP23577_FMA13353_Left%20thyrohyoid.obj",
+      "sha256": "ddc8c6c5a23c6c58e5ab0405de8b347b857fd7e6cff9abee68e5c5455c9b4422",
+      "bytes": 96046,
+      "mirrorPath": "meshes/FJ1577_BP23577_FMA13353_Left thyrohyoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1577_BP23577_FMA13353_Left%20thyrohyoid.obj"
+    },
+    {
+      "id": "FJ1599",
+      "file": "FJ1599.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1599_BP23558_FMA13352_Right%20thyrohyoid.obj",
+      "sha256": "5a9fe8f6206421159bd152a9c8b5024baa320d0b6841b19a5965c83c2e53ada4",
+      "bytes": 107393,
+      "mirrorPath": "meshes/FJ1599_BP23558_FMA13352_Right thyrohyoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1599_BP23558_FMA13352_Right%20thyrohyoid.obj"
+    },
+    {
+      "id": "FJ1574",
+      "file": "FJ1574.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1574_BP23601_FMA13347_Left%20sternohyoid.obj",
+      "sha256": "6e700765389163fcc8b8636ca87eeb412b78fdb2592189adaae20084bcc05f99",
+      "bytes": 203923,
+      "mirrorPath": "meshes/FJ1574_BP23601_FMA13347_Left sternohyoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1574_BP23601_FMA13347_Left%20sternohyoid.obj"
+    },
+    {
+      "id": "FJ1596",
+      "file": "FJ1596.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1596_BP23491_FMA13346_Right%20sternohyoid.obj",
+      "sha256": "2ea864e60008c623fc2e741146446854a817eb8fca5833c017edab9f4edec6d0",
+      "bytes": 213551,
+      "mirrorPath": "meshes/FJ1596_BP23491_FMA13346_Right sternohyoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1596_BP23491_FMA13346_Right%20sternohyoid.obj"
+    },
+    {
+      "id": "FJ1565",
+      "file": "FJ1565.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1565_BP23521_FMA13349_Left%20omohyoid.obj",
+      "sha256": "5baac1c4b9cb5a9483004ce622d66d955ff2cb715c6650aa8af32d2c200e4ce9",
+      "bytes": 367072,
+      "mirrorPath": "meshes/FJ1565_BP23521_FMA13349_Left omohyoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1565_BP23521_FMA13349_Left%20omohyoid.obj"
+    },
+    {
+      "id": "FJ1586",
+      "file": "FJ1586.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1586_BP23554_FMA13348_Right%20omohyoid.obj",
+      "sha256": "e7a0ab1823f5e02fbed802b3e1d0e12c62ec658d0c8238c9a422286d1a25eee0",
+      "bytes": 383023,
+      "mirrorPath": "meshes/FJ1586_BP23554_FMA13348_Right omohyoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1586_BP23554_FMA13348_Right%20omohyoid.obj"
+    },
+    {
+      "id": "FJ1555",
+      "file": "FJ1555.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1555_BP23544_FMA46293_Left%20digastric.obj",
+      "sha256": "3182fb26afef17e6aa8fb1e7ce464fd76965342649070e9a79ea1c37f60b451a",
+      "bytes": 42436,
+      "mirrorPath": "meshes/FJ1555_BP23544_FMA46293_Left digastric.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1555_BP23544_FMA46293_Left%20digastric.obj"
+    },
+    {
+      "id": "FJ1560",
+      "file": "FJ1560.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1560_BP23544_FMA46293_Left%20digastric.obj",
+      "sha256": "7800db452661264f76ae7f9ff88632605ee5cf7582fbe139b54a22db21cac521",
+      "bytes": 32461,
+      "mirrorPath": "meshes/FJ1560_BP23544_FMA46293_Left digastric.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1560_BP23544_FMA46293_Left%20digastric.obj"
+    },
+    {
+      "id": "FJ1578",
+      "file": "FJ1578.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1578_BP23544_FMA46293_Left%20digastric.obj",
+      "sha256": "14a294a1e0dda4b3b30203b3762b0d07bc4113b89d4ef37bd6631d0b1f5d363e",
+      "bytes": 148802,
+      "mirrorPath": "meshes/FJ1578_BP23544_FMA46293_Left digastric.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1578_BP23544_FMA46293_Left%20digastric.obj"
+    },
+    {
+      "id": "FJ1556",
+      "file": "FJ1556.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1556_BP23546_FMA46292_Right%20digastric.obj",
+      "sha256": "a0e3cac31ae509785454cddd53ffbf72d06b0f63869a23669ebcf8c2f925ed99",
+      "bytes": 46793,
+      "mirrorPath": "meshes/FJ1556_BP23546_FMA46292_Right digastric.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1556_BP23546_FMA46292_Right%20digastric.obj"
+    },
+    {
+      "id": "FJ1579",
+      "file": "FJ1579.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1579_BP23546_FMA46292_Right%20digastric.obj",
+      "sha256": "bf4fbf60ea5d4ac248db658b10eafa6a41c9acbb5c4084ac7f337fec49f89dca",
+      "bytes": 160227,
+      "mirrorPath": "meshes/FJ1579_BP23546_FMA46292_Right digastric.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1579_BP23546_FMA46292_Right%20digastric.obj"
+    },
+    {
+      "id": "FJ1581",
+      "file": "FJ1581.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1581_BP22918_FMA258850_Right%20intermediate%20tendon.obj",
+      "sha256": "19f55ab16c6d682a61c49536f82df81797a731ac8f25d104f82e296d2a3a0110",
+      "bytes": 37620,
+      "mirrorPath": "meshes/FJ1581_BP22918_FMA258850_Right intermediate tendon.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1581_BP22918_FMA258850_Right%20intermediate%20tendon.obj"
+    },
+    {
+      "id": "FJ1576",
+      "file": "FJ1576.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1576_BP23559_FMA45827_Left%20stylohyoid.obj",
+      "sha256": "4e6a0361738b3526dbf0f8bebcd8b3c356c287d1946296ec9249bf50898a0082",
+      "bytes": 89580,
+      "mirrorPath": "meshes/FJ1576_BP23559_FMA45827_Left stylohyoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1576_BP23559_FMA45827_Left%20stylohyoid.obj"
+    },
+    {
+      "id": "FJ1598",
+      "file": "FJ1598.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1598_BP23678_FMA45826_Right%20stylohyoid.obj",
+      "sha256": "cd648246f2237fa50bda747567eb0742e476b8384150974ef1894ceb5b3923ce",
+      "bytes": 86218,
+      "mirrorPath": "meshes/FJ1598_BP23678_FMA45826_Right stylohyoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1598_BP23678_FMA45826_Right%20stylohyoid.obj"
+    },
+    {
+      "id": "FJ1573",
+      "file": "FJ1573.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1573_BP23424_FMA13409_Left%20sternocleidomastoid.obj",
+      "sha256": "493c1f9ee694f93f0e01942b37ee5a6818376392dcbfda05c15617b10dcce04b",
+      "bytes": 718024,
+      "mirrorPath": "meshes/FJ1573_BP23424_FMA13409_Left sternocleidomastoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1573_BP23424_FMA13409_Left%20sternocleidomastoid.obj"
+    },
+    {
+      "id": "FJ1595",
+      "file": "FJ1595.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1595_BP23713_FMA13408_Right%20sternocleidomastoid.obj",
+      "sha256": "68aa1699ff0687b116d28d97b990fc7c66124abc32e8c9a261dd63b88bee4757",
+      "bytes": 755460,
+      "mirrorPath": "meshes/FJ1595_BP23713_FMA13408_Right sternocleidomastoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1595_BP23713_FMA13408_Right%20sternocleidomastoid.obj"
+    },
+    {
+      "id": "FJ3289",
+      "file": "FJ3289.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3289_BP22817_FMA52748_Mandible.obj",
+      "sha256": "f0250d55be8e912e9465c55a4c966f9f3bed709f503d3069d3cd19479bbcfe2b",
+      "bytes": 354931,
+      "mirrorPath": "meshes/FJ3289_BP22817_FMA52748_Mandible.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3289_BP22817_FMA52748_Mandible.obj"
+    },
+    {
+      "id": "FJ3269",
+      "file": "FJ3269.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3269_BP23755_FMA53650_Left%20maxilla.obj",
+      "sha256": "59b3ee93b5894c800594be3e7860488c65277f1177ae79744816aecb4b5e6da1",
+      "bytes": 384450,
+      "mirrorPath": "meshes/FJ3269_BP23755_FMA53650_Left maxilla.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3269_BP23755_FMA53650_Left%20maxilla.obj"
+    },
+    {
+      "id": "FJ3375",
+      "file": "FJ3375.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3375_BP23661_FMA53649_Right%20maxilla.obj",
+      "sha256": "867e5c366244097506a919ae85d601a15f0b745c4da27433c08bfb21228a233a",
+      "bytes": 388214,
+      "mirrorPath": "meshes/FJ3375_BP23661_FMA53649_Right maxilla.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3375_BP23661_FMA53649_Right%20maxilla.obj"
+    },
+    {
+      "id": "FJ3273",
+      "file": "FJ3273.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3273_BP23315_FMA53656_Left%20palatine%20bone.obj",
+      "sha256": "aa5963fce152c007c00b767130923ce5912d026f16cb5454d6acb47082826299",
+      "bytes": 125793,
+      "mirrorPath": "meshes/FJ3273_BP23315_FMA53656_Left palatine bone.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3273_BP23315_FMA53656_Left%20palatine%20bone.obj"
+    },
+    {
+      "id": "FJ3379",
+      "file": "FJ3379.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3379_BP24091_FMA53655_Right%20palatine%20bone.obj",
+      "sha256": "3125499d2b51aedf32b0e9224b6da36c8f719251ed6f91b1cea3251cb54c9bc1",
+      "bytes": 118888,
+      "mirrorPath": "meshes/FJ3379_BP24091_FMA53655_Right palatine bone.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3379_BP24091_FMA53655_Right%20palatine%20bone.obj"
+    },
+    {
+      "id": "FJ3131",
+      "file": "FJ3131.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3131_BP23131_FMA13295_Diaphragm.obj",
+      "sha256": "9a2e6094a858e985612a00b6f4e8203082ca7ebe4e167cc13200fb9ed8287b1c",
+      "bytes": 4828247,
+      "mirrorPath": "meshes/FJ3131_BP23131_FMA13295_Diaphragm.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3131_BP23131_FMA13295_Diaphragm.obj"
+    },
+    {
+      "id": "FJ1451",
+      "file": "FJ1451.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1451_BP23614_FMA9756_External%20intercostal%20muscle.obj",
+      "sha256": "aed8317fafc78fb4160ca643951f0988831a0196b7065d38e66c6384a5766d6b",
+      "bytes": 9118668,
+      "mirrorPath": "meshes/FJ1451_BP23614_FMA9756_External intercostal muscle.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1451_BP23614_FMA9756_External%20intercostal%20muscle.obj"
+    },
+    {
+      "id": "FJ1451M",
+      "file": "FJ1451M.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1451M_BP23614_FMA9756_External%20intercostal%20muscle.obj",
+      "sha256": "e09f1f799ec99a5cc644297eca24de9ab24d2e41751d15715f5290e54558d8ac",
+      "bytes": 9040184,
+      "mirrorPath": "meshes/FJ1451M_BP23614_FMA9756_External intercostal muscle.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1451M_BP23614_FMA9756_External%20intercostal%20muscle.obj"
+    },
+    {
+      "id": "FJ1455",
+      "file": "FJ1455.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1455_BP23744_FMA9757_Internal%20intercostal%20muscle.obj",
+      "sha256": "952ea8552fd50d3122ce3f23033dada8f7f041736c2898ca9f6bcc1b861a3d2c",
+      "bytes": 7706151,
+      "mirrorPath": "meshes/FJ1455_BP23744_FMA9757_Internal intercostal muscle.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1455_BP23744_FMA9757_Internal%20intercostal%20muscle.obj"
+    },
+    {
+      "id": "FJ1455M",
+      "file": "FJ1455M.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1455M_BP23744_FMA9757_Internal%20intercostal%20muscle.obj",
+      "sha256": "b81d9d30ce3e53643575157be99918a107306cfba7fcd4c172b05eaafdf3a910",
+      "bytes": 7632486,
+      "mirrorPath": "meshes/FJ1455M_BP23744_FMA9757_Internal intercostal muscle.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1455M_BP23744_FMA9757_Internal%20intercostal%20muscle.obj"
+    },
+    {
+      "id": "FJ1452",
+      "file": "FJ1452.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1452_BP22075_FMA13336_Right%20external%20oblique.obj",
+      "sha256": "40209881f7675ff3859d361bf6f2d38e30d7fddf57dab5ef8e08cf5dc6382d31",
+      "bytes": 8308015,
+      "mirrorPath": "meshes/FJ1452_BP22075_FMA13336_Right external oblique.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1452_BP22075_FMA13336_Right%20external%20oblique.obj"
+    },
+    {
+      "id": "FJ1452M",
+      "file": "FJ1452M.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1452M_BP22276_FMA13337_Left%20external%20oblique.obj",
+      "sha256": "9dc21d7e410b0009340de99fe854d8b0c690ddd6655b2bb4bc1bc999cc278ca8",
+      "bytes": 8250238,
+      "mirrorPath": "meshes/FJ1452M_BP22276_FMA13337_Left external oblique.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1452M_BP22276_FMA13337_Left%20external%20oblique.obj"
+    },
+    {
+      "id": "FJ3290",
+      "file": "FJ3290.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3290_BP22794_FMA7486_Manubrium.obj",
+      "sha256": "734e95c8265b6458f2db41a04c61ba706ed9b55ea1aefa9d0a8f048310651a68",
+      "bytes": 164391,
+      "mirrorPath": "meshes/FJ3290_BP22794_FMA7486_Manubrium.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3290_BP22794_FMA7486_Manubrium.obj"
+    },
+    {
+      "id": "FJ3178",
+      "file": "FJ3178.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3178_BP22232_FMA7487_Body%20of%20sternum.obj",
+      "sha256": "2778645a031486a98f2e26be0c67f664f2de391a5e760427db96a403e676391f",
+      "bytes": 373931,
+      "mirrorPath": "meshes/FJ3178_BP22232_FMA7487_Body of sternum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3178_BP22232_FMA7487_Body%20of%20sternum.obj"
+    },
+    {
+      "id": "FJ3153",
+      "file": "FJ3153.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3153_BP22299_FMA7488_Xiphoid%20process.obj",
+      "sha256": "78c5b7418f7a20e567c7fe238626febaa054faf623aa1fbda5d6f84d0906832d",
+      "bytes": 55901,
+      "mirrorPath": "meshes/FJ3153_BP22299_FMA7488_Xiphoid process.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3153_BP22299_FMA7488_Xiphoid%20process.obj"
+    },
+    {
+      "id": "FJ3228",
+      "file": "FJ3228.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3228_BP22221_FMA7987_Left%20first%20rib.obj",
+      "sha256": "6a19fc2a31580adbe8186e7df47dce050ee28ecd1ac61c0f4f594e764a3c794f",
+      "bytes": 200486,
+      "mirrorPath": "meshes/FJ3228_BP22221_FMA7987_Left first rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3228_BP22221_FMA7987_Left%20first%20rib.obj"
+    },
+    {
+      "id": "FJ3229",
+      "file": "FJ3229.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3229_BP22527_FMA8012_Left%20second%20rib.obj",
+      "sha256": "6451db218e0d23b4f32350cb1704c5c6f4cc891826d25109368c685cd4ebd62a",
+      "bytes": 354866,
+      "mirrorPath": "meshes/FJ3229_BP22527_FMA8012_Left second rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3229_BP22527_FMA8012_Left%20second%20rib.obj"
+    },
+    {
+      "id": "FJ3230",
+      "file": "FJ3230.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3230_BP22294_FMA8039_Left%20third%20rib.obj",
+      "sha256": "8690da802ef43712bb17dcbb35e33d7b210ebbfd365297b8516fee9fb07ab008",
+      "bytes": 459671,
+      "mirrorPath": "meshes/FJ3230_BP22294_FMA8039_Left third rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3230_BP22294_FMA8039_Left%20third%20rib.obj"
+    },
+    {
+      "id": "FJ3231",
+      "file": "FJ3231.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3231_BP22488_FMA8148_Left%20fourth%20rib.obj",
+      "sha256": "62f81d0f6e799c759d048b0d7e4e6ea0ccf59eebc76deb8c5f4f4b93ebe56c7a",
+      "bytes": 564170,
+      "mirrorPath": "meshes/FJ3231_BP22488_FMA8148_Left fourth rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3231_BP22488_FMA8148_Left%20fourth%20rib.obj"
+    },
+    {
+      "id": "FJ3232",
+      "file": "FJ3232.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3232_BP22285_FMA8093_Left%20fifth%20rib.obj",
+      "sha256": "134ed1994bcf99a0827baca7e4548b952ede8cebcd9c32ff9bba83694fe2af82",
+      "bytes": 622026,
+      "mirrorPath": "meshes/FJ3232_BP22285_FMA8093_Left fifth rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3232_BP22285_FMA8093_Left%20fifth%20rib.obj"
+    },
+    {
+      "id": "FJ3233",
+      "file": "FJ3233.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3233_BP22298_FMA8202_Left%20sixth%20rib.obj",
+      "sha256": "4a9e0c4b951c18cad19c92f8e1d6bf900294e33e3197df0bf3ee470d5f740b03",
+      "bytes": 656948,
+      "mirrorPath": "meshes/FJ3233_BP22298_FMA8202_Left sixth rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3233_BP22298_FMA8202_Left%20sixth%20rib.obj"
+    },
+    {
+      "id": "FJ3234",
+      "file": "FJ3234.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3234_BP22332_FMA8256_Left%20seventh%20rib.obj",
+      "sha256": "1cf8ddde6c1e25053e0d96d140abca16e21ca44004ea254bde2b74aec1bbd28c",
+      "bytes": 642046,
+      "mirrorPath": "meshes/FJ3234_BP22332_FMA8256_Left seventh rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3234_BP22332_FMA8256_Left%20seventh%20rib.obj"
+    },
+    {
+      "id": "FJ3235",
+      "file": "FJ3235.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3235_BP23684_FMA8310_Left%20eighth%20rib.obj",
+      "sha256": "2fce674e4ab849da6c60fbeba69330ab2708c47b2dfeb7e63bcf31d8f0b8cd71",
+      "bytes": 532419,
+      "mirrorPath": "meshes/FJ3235_BP23684_FMA8310_Left eighth rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3235_BP23684_FMA8310_Left%20eighth%20rib.obj"
+    },
+    {
+      "id": "FJ3236",
+      "file": "FJ3236.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3236_BP22343_FMA8391_Left%20ninth%20rib.obj",
+      "sha256": "a85a2feb2b1adf0d40c64daf505cce78277c3f0998df00dcaded3b58d7c35d46",
+      "bytes": 481426,
+      "mirrorPath": "meshes/FJ3236_BP22343_FMA8391_Left ninth rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3236_BP22343_FMA8391_Left%20ninth%20rib.obj"
+    },
+    {
+      "id": "FJ3225",
+      "file": "FJ3225.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3225_BP23877_FMA8472_Left%20tenth%20rib.obj",
+      "sha256": "38da43831695ce20a30e75bfea67ef8b30d6d809acc06047e43cc669735764e9",
+      "bytes": 431812,
+      "mirrorPath": "meshes/FJ3225_BP23877_FMA8472_Left tenth rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3225_BP23877_FMA8472_Left%20tenth%20rib.obj"
+    },
+    {
+      "id": "FJ3226",
+      "file": "FJ3226.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3226_BP22277_FMA8532_Left%20eleventh%20rib.obj",
+      "sha256": "a319bfed8a58a63a92b21360115816ea9d4d088a8e089ad67608db0f6ddd8ce7",
+      "bytes": 303913,
+      "mirrorPath": "meshes/FJ3226_BP22277_FMA8532_Left eleventh rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3226_BP22277_FMA8532_Left%20eleventh%20rib.obj"
+    },
+    {
+      "id": "FJ3227",
+      "file": "FJ3227.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3227_BP22319_FMA8534_Left%20twelfth%20rib.obj",
+      "sha256": "6a67f81f9442f9ab46f685d0835904410a4e2d314d95258014a512374008da04",
+      "bytes": 170630,
+      "mirrorPath": "meshes/FJ3227_BP22319_FMA8534_Left twelfth rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3227_BP22319_FMA8534_Left%20twelfth%20rib.obj"
+    },
+    {
+      "id": "FJ3334",
+      "file": "FJ3334.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3334_BP22293_FMA7857_Right%20first%20rib.obj",
+      "sha256": "ea7d23529b902df78aa02faa1ced1929477c06f49ee941e4b2aae668330251ae",
+      "bytes": 201982,
+      "mirrorPath": "meshes/FJ3334_BP22293_FMA7857_Right first rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3334_BP22293_FMA7857_Right%20first%20rib.obj"
+    },
+    {
+      "id": "FJ3336",
+      "file": "FJ3336.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3336_BP22251_FMA7882_Right%20second%20rib.obj",
+      "sha256": "c3c4acf9bf84f4b6bcde4dbf215c750da1f5c5cc68ab42e6c8b6693b11ea2fce",
+      "bytes": 357986,
+      "mirrorPath": "meshes/FJ3336_BP22251_FMA7882_Right second rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3336_BP22251_FMA7882_Right%20second%20rib.obj"
+    },
+    {
+      "id": "FJ3338",
+      "file": "FJ3338.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3338_BP22334_FMA7909_Right%20third%20rib.obj",
+      "sha256": "e14e8eaaf3eaba8dc7c214dd8224ace97df68f56d31beb989e867076bc5c6096",
+      "bytes": 463164,
+      "mirrorPath": "meshes/FJ3338_BP22334_FMA7909_Right third rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3338_BP22334_FMA7909_Right%20third%20rib.obj"
+    },
+    {
+      "id": "FJ3340",
+      "file": "FJ3340.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3340_BP22336_FMA7957_Right%20fourth%20rib.obj",
+      "sha256": "bedef7dd347f8668a2fd4de79d571cebad8a6cb306e179297ac9fa8aa5529fd3",
+      "bytes": 567074,
+      "mirrorPath": "meshes/FJ3340_BP22336_FMA7957_Right fourth rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3340_BP22336_FMA7957_Right%20fourth%20rib.obj"
+    },
+    {
+      "id": "FJ3342",
+      "file": "FJ3342.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3342_BP22307_FMA8066_Right%20fifth%20rib.obj",
+      "sha256": "7375d50a05530a18c1b5684886d470c1799253b4cceffbcc93c0248545b3c8fc",
+      "bytes": 626812,
+      "mirrorPath": "meshes/FJ3342_BP22307_FMA8066_Right fifth rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3342_BP22307_FMA8066_Right%20fifth%20rib.obj"
+    },
+    {
+      "id": "FJ3344",
+      "file": "FJ3344.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3344_BP22272_FMA8175_Right%20sixth%20rib.obj",
+      "sha256": "00c82e5fe46f58567578dd66ff98a570b8495ce1bef7f26392bdc201d84b3cc0",
+      "bytes": 661483,
+      "mirrorPath": "meshes/FJ3344_BP22272_FMA8175_Right sixth rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3344_BP22272_FMA8175_Right%20sixth%20rib.obj"
+    },
+    {
+      "id": "FJ3346",
+      "file": "FJ3346.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3346_BP22330_FMA8229_Right%20seventh%20rib.obj",
+      "sha256": "b91e96dcb05423c614bec2e1a9309e2097dc3f4bee97248c894c04311b4632e7",
+      "bytes": 647068,
+      "mirrorPath": "meshes/FJ3346_BP22330_FMA8229_Right seventh rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3346_BP22330_FMA8229_Right%20seventh%20rib.obj"
+    },
+    {
+      "id": "FJ3347",
+      "file": "FJ3347.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3347_BP23993_FMA8283_Right%20eighth%20rib.obj",
+      "sha256": "09b796b3987bd982a0d0bd986b7fd2bc6512ac88a96c83fd041b0c13cbf12674",
+      "bytes": 535420,
+      "mirrorPath": "meshes/FJ3347_BP23993_FMA8283_Right eighth rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3347_BP23993_FMA8283_Right%20eighth%20rib.obj"
+    },
+    {
+      "id": "FJ3348",
+      "file": "FJ3348.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3348_BP23888_FMA8364_Right%20ninth%20rib.obj",
+      "sha256": "d9195a65a4ef628ce51c0f47ecaf76a3347ce195a5947bd888e5524ff9754456",
+      "bytes": 484835,
+      "mirrorPath": "meshes/FJ3348_BP23888_FMA8364_Right ninth rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3348_BP23888_FMA8364_Right%20ninth%20rib.obj"
+    },
+    {
+      "id": "FJ3330",
+      "file": "FJ3330.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3330_BP22326_FMA8445_Right%20tenth%20rib.obj",
+      "sha256": "ad4dccb79323905d88a155253ddae8fb276fe0ab6302cd856530d08baafbdf82",
+      "bytes": 434445,
+      "mirrorPath": "meshes/FJ3330_BP22326_FMA8445_Right tenth rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3330_BP22326_FMA8445_Right%20tenth%20rib.obj"
+    },
+    {
+      "id": "FJ3331",
+      "file": "FJ3331.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3331_BP22303_FMA8531_Right%20eleventh%20rib.obj",
+      "sha256": "29bf864f0504b20c290aa48abd9d655a6a8e5a563c1f80495c7ba2be16576ec1",
+      "bytes": 306359,
+      "mirrorPath": "meshes/FJ3331_BP22303_FMA8531_Right eleventh rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3331_BP22303_FMA8531_Right%20eleventh%20rib.obj"
+    },
+    {
+      "id": "FJ3332",
+      "file": "FJ3332.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3332_BP22528_FMA8533_Right%20twelfth%20rib.obj",
+      "sha256": "136feff5b7a8a596c7a2b62bea426aaf6389a3da944a71a71790a4c2691ecfd8",
+      "bytes": 172027,
+      "mirrorPath": "meshes/FJ3332_BP22528_FMA8533_Right twelfth rib.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3332_BP22528_FMA8533_Right%20twelfth%20rib.obj"
+    },
+    {
+      "id": "FJ3239",
+      "file": "FJ3239.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3239_BP21373_FMA8005_Left%20first%20costal%20cartilage.obj",
+      "sha256": "5ae7390557de025f0be9a3044664d2996e442013688e27dfc18e323001eb32fb",
+      "bytes": 42423,
+      "mirrorPath": "meshes/FJ3239_BP21373_FMA8005_Left first costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3239_BP21373_FMA8005_Left%20first%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3242",
+      "file": "FJ3242.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3242_BP22752_FMA8031_Left%20second%20costal%20cartilage.obj",
+      "sha256": "33ec240cf5e4f5dd11a5ee3b19ce2d026baa207650729be12134852a64b6a732",
+      "bytes": 35836,
+      "mirrorPath": "meshes/FJ3242_BP22752_FMA8031_Left second costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3242_BP22752_FMA8031_Left%20second%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3245",
+      "file": "FJ3245.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3245_BP22750_FMA8058_Left%20third%20costal%20cartilage.obj",
+      "sha256": "bf21ca805673e90d2fa277bd369b1f9b427de0ad7aa8291144ec7248b3b689fe",
+      "bytes": 36238,
+      "mirrorPath": "meshes/FJ3245_BP22750_FMA8058_Left third costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3245_BP22750_FMA8058_Left%20third%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3248",
+      "file": "FJ3248.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3248_BP22751_FMA8167_Left%20fourth%20costal%20cartilage.obj",
+      "sha256": "9b35ba20fb4eb7f2e9f71cb71b1d3fa0bce4fa132106b9186bf624f8993d7154",
+      "bytes": 40361,
+      "mirrorPath": "meshes/FJ3248_BP22751_FMA8167_Left fourth costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3248_BP22751_FMA8167_Left%20fourth%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3251",
+      "file": "FJ3251.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3251_BP21380_FMA8112_Left%20fifth%20costal%20cartilage.obj",
+      "sha256": "46de52741e3407a108c40a584714afc0aa6201818ea4dab0fe162583d3c4bbcb",
+      "bytes": 66165,
+      "mirrorPath": "meshes/FJ3251_BP21380_FMA8112_Left fifth costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3251_BP21380_FMA8112_Left%20fifth%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3254",
+      "file": "FJ3254.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3254_BP21377_FMA8221_Left%20sixth%20costal%20cartilage.obj",
+      "sha256": "53dfca2e5124c10f68f68cc4b2ef01c4edebc3124a5ed61fe06d46befa28ab68",
+      "bytes": 91328,
+      "mirrorPath": "meshes/FJ3254_BP21377_FMA8221_Left sixth costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3254_BP21377_FMA8221_Left%20sixth%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3255",
+      "file": "FJ3255.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3255_BP22753_FMA8275_Left%20seventh%20costal%20cartilage.obj",
+      "sha256": "80a1b623c7d3805f51d141d783bc148f3e1a216b77620a2953ca940c00784528",
+      "bytes": 150515,
+      "mirrorPath": "meshes/FJ3255_BP22753_FMA8275_Left seventh costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3255_BP22753_FMA8275_Left%20seventh%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3668",
+      "file": "FJ3668.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3668_BP22462_FMA8329_Left%20eighth%20costal%20cartilage.obj",
+      "sha256": "8579345813434c27a5575dc6fb3055e7b93a43c028b518f01ef10053cf7372be",
+      "bytes": 631833,
+      "mirrorPath": "meshes/FJ3668_BP22462_FMA8329_Left eighth costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3668_BP22462_FMA8329_Left%20eighth%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3669",
+      "file": "FJ3669.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3669_BP22484_FMA8410_Left%20ninth%20costal%20cartilage.obj",
+      "sha256": "3fd162a897326bac9f391b159e10139ecdd1b1900ce989661172817b88ed8eea",
+      "bytes": 468303,
+      "mirrorPath": "meshes/FJ3669_BP22484_FMA8410_Left ninth costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3669_BP22484_FMA8410_Left%20ninth%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3667",
+      "file": "FJ3667.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3667_BP22463_FMA8491_Left%20tenth%20costal%20cartilage.obj",
+      "sha256": "2de810fb46622f4caf916860533c97579162c0f960a495f9eba7fae2fcf3d268",
+      "bytes": 390450,
+      "mirrorPath": "meshes/FJ3667_BP22463_FMA8491_Left tenth costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3667_BP22463_FMA8491_Left%20tenth%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3333",
+      "file": "FJ3333.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3333_BP21366_FMA7875_Right%20first%20costal%20cartilage.obj",
+      "sha256": "5c8d82a785fb34d753164a0d3f5368c82c84f06821d2e3e29bbe22080d2caf33",
+      "bytes": 45235,
+      "mirrorPath": "meshes/FJ3333_BP21366_FMA7875_Right first costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3333_BP21366_FMA7875_Right%20first%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3335",
+      "file": "FJ3335.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3335_BP21383_FMA7886_Right%20second%20costal%20cartilage.obj",
+      "sha256": "98f173ff6aa109c173cf9401fe2843cce125fbe4c37dec3cdca20b51084d94d5",
+      "bytes": 41651,
+      "mirrorPath": "meshes/FJ3335_BP21383_FMA7886_Right second costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3335_BP21383_FMA7886_Right%20second%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3337",
+      "file": "FJ3337.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3337_BP21360_FMA7913_Right%20third%20costal%20cartilage.obj",
+      "sha256": "fce39adfab01b0619df6143fc03da771e7be9e0dc2d253a0402784dead4679b1",
+      "bytes": 41763,
+      "mirrorPath": "meshes/FJ3337_BP21360_FMA7913_Right third costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3337_BP21360_FMA7913_Right%20third%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3339",
+      "file": "FJ3339.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3339_BP21410_FMA7976_Right%20fourth%20costal%20cartilage.obj",
+      "sha256": "2e6f362cb2e2541cdd379e2d7286f5719c666e1d204076c302719b13978034ad",
+      "bytes": 43261,
+      "mirrorPath": "meshes/FJ3339_BP21410_FMA7976_Right fourth costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3339_BP21410_FMA7976_Right%20fourth%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3341",
+      "file": "FJ3341.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3341_BP21376_FMA8070_Right%20fifth%20costal%20cartilage.obj",
+      "sha256": "7d6a9cf8835d7d58e44c1029b27612432786c258e77abe5b629e01627c5abb4f",
+      "bytes": 72810,
+      "mirrorPath": "meshes/FJ3341_BP21376_FMA8070_Right fifth costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3341_BP21376_FMA8070_Right%20fifth%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3343",
+      "file": "FJ3343.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3343_BP22071_FMA8194_Right%20sixth%20costal%20cartilage.obj",
+      "sha256": "21254bf943da0b309de0f6719cbf1c09539a65545a5e706b068f1261452bcf84",
+      "bytes": 103141,
+      "mirrorPath": "meshes/FJ3343_BP22071_FMA8194_Right sixth costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3343_BP22071_FMA8194_Right%20sixth%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3345",
+      "file": "FJ3345.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3345_BP21381_FMA8248_Right%20seventh%20costal%20cartilage.obj",
+      "sha256": "62db8ee22c64127930c5c3451dcd841267d49ff8add3294f10d7a9dad9ea5b84",
+      "bytes": 167200,
+      "mirrorPath": "meshes/FJ3345_BP21381_FMA8248_Right seventh costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3345_BP21381_FMA8248_Right%20seventh%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3668M",
+      "file": "FJ3668M.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3668M_BP21439_FMA8302_Right%20eighth%20costal%20cartilage.obj",
+      "sha256": "37e3c0c6c44db5b090699686fb67d60c46cca57678b5f111773043edf24da873",
+      "bytes": 197192,
+      "mirrorPath": "meshes/FJ3668M_BP21439_FMA8302_Right eighth costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3668M_BP21439_FMA8302_Right%20eighth%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3669M",
+      "file": "FJ3669M.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3669M_BP21430_FMA8383_Right%20ninth%20costal%20cartilage.obj",
+      "sha256": "421396b89396541acf22d0bd0a30a884ef4e2e852f403c704b6b39aab2ffb511",
+      "bytes": 148930,
+      "mirrorPath": "meshes/FJ3669M_BP21430_FMA8383_Right ninth costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3669M_BP21430_FMA8383_Right%20ninth%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3667M",
+      "file": "FJ3667M.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3667M_BP21440_FMA8464_Right%20tenth%20costal%20cartilage.obj",
+      "sha256": "db3fd2a54736116c611ec9608533607e95bab0be4bbef221d4c9237000175604",
+      "bytes": 118859,
+      "mirrorPath": "meshes/FJ3667M_BP21440_FMA8464_Right tenth costal cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3667M_BP21440_FMA8464_Right%20tenth%20costal%20cartilage.obj"
+    },
+    {
+      "id": "FJ3176",
+      "file": "FJ3176.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3176_BP23663_FMA12519_Atlas.obj",
+      "sha256": "0adae3222ad287eb367bbf83c1cd6fbcd7664f40a1d2536feb6d768d7518e6bf",
+      "bytes": 148313,
+      "mirrorPath": "meshes/FJ3176_BP23663_FMA12519_Atlas.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3176_BP23663_FMA12519_Atlas.obj"
+    },
+    {
+      "id": "FJ3177",
+      "file": "FJ3177.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3177_BP23565_FMA12520_Axis.obj",
+      "sha256": "6cf7e5c7936a928dd6a53e177f05a1342be97fd4093b8cb0750ab958ad57fc55",
+      "bytes": 161535,
+      "mirrorPath": "meshes/FJ3177_BP23565_FMA12520_Axis.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3177_BP23565_FMA12520_Axis.obj"
+    },
+    {
+      "id": "FJ3161",
+      "file": "FJ3161.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3161_BP23693_FMA12521_Third%20cervical%20vertebra.obj",
+      "sha256": "1fc32d22fd860e4fab228e2063a8a167ea2e85b14ad7570ac5c3a1d693df67e3",
+      "bytes": 139208,
+      "mirrorPath": "meshes/FJ3161_BP23693_FMA12521_Third cervical vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3161_BP23693_FMA12521_Third%20cervical%20vertebra.obj"
+    },
+    {
+      "id": "FJ3164",
+      "file": "FJ3164.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3164_BP23757_FMA12522_Fourth%20cervical%20vertebra.obj",
+      "sha256": "8a211a85a55ca6ed0466a7ff9505656f80677b8c3fdaf133026b750974089111",
+      "bytes": 161128,
+      "mirrorPath": "meshes/FJ3164_BP23757_FMA12522_Fourth cervical vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3164_BP23757_FMA12522_Fourth%20cervical%20vertebra.obj"
+    },
+    {
+      "id": "FJ3167",
+      "file": "FJ3167.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3167_BP23524_FMA12523_Fifth%20cervical%20vertebra.obj",
+      "sha256": "b5e0cb9386110c82189b036d56d8be640a29c7f56fa88cf922bce80c93a33825",
+      "bytes": 158493,
+      "mirrorPath": "meshes/FJ3167_BP23524_FMA12523_Fifth cervical vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3167_BP23524_FMA12523_Fifth%20cervical%20vertebra.obj"
+    },
+    {
+      "id": "FJ3170",
+      "file": "FJ3170.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3170_BP24077_FMA12524_Sixth%20cervical%20vertebra.obj",
+      "sha256": "ca1c7507951b7a16bbd4286492391af0a4f60c8f07fb59a876f6526853ce9f60",
+      "bytes": 161671,
+      "mirrorPath": "meshes/FJ3170_BP24077_FMA12524_Sixth cervical vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3170_BP24077_FMA12524_Sixth%20cervical%20vertebra.obj"
+    },
+    {
+      "id": "FJ3172",
+      "file": "FJ3172.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3172_BP23626_FMA12525_Seventh%20cervical%20vertebra.obj",
+      "sha256": "20df76505e5d21ad9eac99e1dd241576a4411a3fa0d2c1d3dda7aa69a9f79f32",
+      "bytes": 132995,
+      "mirrorPath": "meshes/FJ3172_BP23626_FMA12525_Seventh cervical vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3172_BP23626_FMA12525_Seventh%20cervical%20vertebra.obj"
+    },
+    {
+      "id": "FJ3158",
+      "file": "FJ3158.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3158_BP23701_FMA9165_First%20thoracic%20vertebra.obj",
+      "sha256": "decdbc71af9e3ed2ec870ec51cb13074293ad95365e11d51a0429fcde4e7be86",
+      "bytes": 113811,
+      "mirrorPath": "meshes/FJ3158_BP23701_FMA9165_First thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3158_BP23701_FMA9165_First%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3160",
+      "file": "FJ3160.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3160_BP23621_FMA9187_Second%20thoracic%20vertebra.obj",
+      "sha256": "a80babd2d3d511869c791607dad70939daf0ea8974f28a0a0c37278a94a832b9",
+      "bytes": 126209,
+      "mirrorPath": "meshes/FJ3160_BP23621_FMA9187_Second thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3160_BP23621_FMA9187_Second%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3163",
+      "file": "FJ3163.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3163_BP23513_FMA9209_Third%20thoracic%20vertebra.obj",
+      "sha256": "8e53609cdd7c5a49a1cbb9abd5e97a43e0a21a16708dcb71f085555010d190f8",
+      "bytes": 130173,
+      "mirrorPath": "meshes/FJ3163_BP23513_FMA9209_Third thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3163_BP23513_FMA9209_Third%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3166",
+      "file": "FJ3166.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3166_BP23564_FMA9248_Fourth%20thoracic%20vertebra.obj",
+      "sha256": "6b6d555c6132b5dd673e9b702a76574f2869462aace2bb3892cd8e38387ce0dc",
+      "bytes": 133514,
+      "mirrorPath": "meshes/FJ3166_BP23564_FMA9248_Fourth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3166_BP23564_FMA9248_Fourth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3169",
+      "file": "FJ3169.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3169_BP23466_FMA9922_Fifth%20thoracic%20vertebra.obj",
+      "sha256": "2a06234c1a3837b3b643f0dd3af11843c85f6bd2a8ed29a011da31fea08d0682",
+      "bytes": 147550,
+      "mirrorPath": "meshes/FJ3169_BP23466_FMA9922_Fifth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3169_BP23466_FMA9922_Fifth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3171",
+      "file": "FJ3171.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3171_BP24088_FMA9945_Sixth%20thoracic%20vertebra.obj",
+      "sha256": "082ac32fee22c34609758a61d58227d7dcd84220bf4264f8f110f64f2ebb3992",
+      "bytes": 148727,
+      "mirrorPath": "meshes/FJ3171_BP24088_FMA9945_Sixth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3171_BP24088_FMA9945_Sixth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3173",
+      "file": "FJ3173.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3173_BP23615_FMA9968_Seventh%20thoracic%20vertebra.obj",
+      "sha256": "9f20e518e1a27a7c4be01a829bef7afda1a032cedf45c0fe165539a7df2edc8e",
+      "bytes": 167251,
+      "mirrorPath": "meshes/FJ3173_BP23615_FMA9968_Seventh thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3173_BP23615_FMA9968_Seventh%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3174",
+      "file": "FJ3174.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3174_BP23727_FMA9991_Eighth%20thoracic%20vertebra.obj",
+      "sha256": "3f4f6575d9392332f5a8e04efdc2e1525fdd5d3ac1c3dac6b2f5f540d9833dad",
+      "bytes": 157078,
+      "mirrorPath": "meshes/FJ3174_BP23727_FMA9991_Eighth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3174_BP23727_FMA9991_Eighth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3175",
+      "file": "FJ3175.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3175_BP23429_FMA10014_Ninth%20thoracic%20vertebra.obj",
+      "sha256": "41be91d8fd03e9894d868be28e931c66f5d805764bf143f91e8f8990c5784d15",
+      "bytes": 165754,
+      "mirrorPath": "meshes/FJ3175_BP23429_FMA10014_Ninth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3175_BP23429_FMA10014_Ninth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3154",
+      "file": "FJ3154.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3154_BP23555_FMA10037_Tenth%20thoracic%20vertebra.obj",
+      "sha256": "b8322a72a3fc0e720e22fdbbdc81f04adaaa12a7ce5a11b76013e6f6e0e974c7",
+      "bytes": 181310,
+      "mirrorPath": "meshes/FJ3154_BP23555_FMA10037_Tenth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3154_BP23555_FMA10037_Tenth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3155",
+      "file": "FJ3155.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3155_BP23648_FMA10059_Eleventh%20thoracic%20vertebra.obj",
+      "sha256": "f1734b5a82b3134f392b770255947569b8fb7fcefd152846a1102e7fa3c7b543",
+      "bytes": 177706,
+      "mirrorPath": "meshes/FJ3155_BP23648_FMA10059_Eleventh thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3155_BP23648_FMA10059_Eleventh%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3156",
+      "file": "FJ3156.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3156_BP23373_FMA10081_Twelfth%20thoracic%20vertebra.obj",
+      "sha256": "396f459937f9afd71ee42ed17cad6b989842c6ec072a1401dc184bc292a0d68d",
+      "bytes": 181289,
+      "mirrorPath": "meshes/FJ3156_BP23373_FMA10081_Twelfth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3156_BP23373_FMA10081_Twelfth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3157",
+      "file": "FJ3157.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3157_BP23647_FMA13072_First%20lumbar%20vertebra.obj",
+      "sha256": "3d5c43595140cf7e17d3698ec8d03568cacfeb6352b82d9cf2ed3a6ab097868f",
+      "bytes": 193434,
+      "mirrorPath": "meshes/FJ3157_BP23647_FMA13072_First lumbar vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3157_BP23647_FMA13072_First%20lumbar%20vertebra.obj"
+    },
+    {
+      "id": "FJ3159",
+      "file": "FJ3159.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3159_BP23671_FMA13073_Second%20lumbar%20vertebra.obj",
+      "sha256": "f754ca81497dbf3d52a96d4243c74c692c6d3b4a5027db4d950bf6934e5a728a",
+      "bytes": 213652,
+      "mirrorPath": "meshes/FJ3159_BP23671_FMA13073_Second lumbar vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3159_BP23671_FMA13073_Second%20lumbar%20vertebra.obj"
+    }
+  ]
+}
