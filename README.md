@@ -1,6 +1,6 @@
 # Vocal Guide 3+1D (`vocal-guide-4d`)
 
-**Live Interactive Studio:** [https://alok.github.io/vocal-guide-4d/](https://alok.github.io/vocal-guide-4d/)
+**Live Interactive Studio:** [https://alok.blog/vocal-guide-4d/](https://alok.blog/vocal-guide-4d/) *(via GitHub Pages; [`alok.github.io/vocal-guide-4d`](https://alok.github.io/vocal-guide-4d/) redirects here)*
 
 An interactive **3+1D ($\mathbb{R}^3 \times \mathbb{R}_t$) biomechanical vocal atlas** that combines [Jesper Ordrup's Vocal Guide](https://jesperordrup.github.io/vocal-guide/) (21 singing techniques across 5 categories, Complete Vocal Technique [CVT] 4-mode cross-reference, 5-minute guided warm-up, 6-step beginner roadmap, anatomy notes, and 10 vocal myths, in English & Danish) with real-time **3D muscle kinematics, stroboscopic mucosal-wave simulation, and LF-formant Web Audio synthesis** built on verified **BodyParts3D v4.3** human anatomy.
 
