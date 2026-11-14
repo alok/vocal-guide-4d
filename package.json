@@ -1,0 +1,26 @@
+{
+  "name": "vocal-guide-4d",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Interactive 3+1D biomechanical vocal guide: 21 techniques, CVT 4-mode simulator, mucosal wave stroboscope, and LF formant synth on BodyParts3D 4.3 anatomy.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "anatomy:build": "uv run scripts/build_anatomy.py",
+    "anatomy:verify": "uv run scripts/build_anatomy.py --verify",
+    "guide:extract": "uv run scripts/extract_guide_data.py"
+  },
+  "dependencies": {
+    "three": "^0.174.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.174.0",
+    "typescript": "^5.7.3",
+    "vite": "^6.2.0",
+    "vitest": "^3.0.7"
+  }
+}

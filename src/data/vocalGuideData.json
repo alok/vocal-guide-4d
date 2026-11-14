@@ -1,0 +1,2228 @@
+{
+  "attribution": {
+    "title": "Vocal Guide — Vocal Techniques Reference",
+    "author": "Jesper Ordrup",
+    "license": "MIT",
+    "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/",
+    "repoUrl": "https://github.com/jesperordrup/vocal-guide"
+  },
+  "categories": [
+    {
+      "slug": "registers",
+      "name": {
+        "en": "Vocal Registers",
+        "da": "Vokale Registre"
+      },
+      "description": {
+        "en": "Foundation voice modes every singer must master.",
+        "da": "Grundlæggende stemmefunktioner enhver sanger bør mestre."
+      }
+    },
+    {
+      "slug": "styles",
+      "name": {
+        "en": "Vocal Styles & Techniques",
+        "da": "Vokale Stilarter & Teknikker"
+      },
+      "description": {
+        "en": "Characteristic vocal approaches that define genre and expression.",
+        "da": "Karakteristiske vokale tilgange der definerer genre og udtryk."
+      }
+    },
+    {
+      "slug": "effects",
+      "name": {
+        "en": "Vocal Effects",
+        "da": "Vokale Effekter"
+      },
+      "description": {
+        "en": "Extended techniques that add texture and emotion.",
+        "da": "Udvidede teknikker der tilføjer tekstur og følelse."
+      }
+    },
+    {
+      "slug": "ornaments",
+      "name": {
+        "en": "Embellish",
+        "da": "Udsmykning"
+      },
+      "description": {
+        "en": "Melodic embellishments that add flair and sophistication.",
+        "da": "Melodiske udsmykninger der tilføjer finesse og karakter."
+      }
+    },
+    {
+      "slug": "dynamics",
+      "name": {
+        "en": "Dynamics",
+        "da": "Dynamik"
+      },
+      "description": {
+        "en": "The art of contrast and expression through volume control.",
+        "da": "Kunsten at skabe kontrast og udtryk gennem volumenkontrol."
+      }
+    }
+  ],
+  "techniques": [
+    {
+      "slug": "chest-voice",
+      "id": "tech-chest-voice",
+      "name": "Chest Voice",
+      "category": "registers",
+      "difficulty": 1,
+      "examples": "Johnny Cash, Adele (vers), Elvis Presley, Amy Winehouse",
+      "prerequisites": [],
+      "description": {
+        "en": "Your speaking register. Thick vocal folds, full closure.",
+        "da": "Dit taleregister. Tykke stemmebånd, fuld lukning."
+      },
+      "character": {
+        "en": "Rich, warm, powerful, grounded. Vibrations felt in upper torso.",
+        "da": "Fyldig, varm, kraftfuld, jordbunden. Vibrationer mærkes i brystkassen."
+      },
+      "howTo": {
+        "en": {
+          "headline": "Place hand on chest and speak — feel the buzz.",
+          "body": "That's chest resonance. Sing \"Hey!\" like calling someone across the street. Keep that forward, spoken quality as you move to pitch.",
+          "exercises": [
+            "Exercise: \"Hey man!\" projection on scales",
+            "Exercise: Speak-sing counting 1–10"
+          ],
+          "cvtNote": "In CVT, chest-dominant sounds are produced using Overdrive mode (shouty, direct, vowels: EH/OH) or Edge mode (sharp, twangy, vowels: I/EH/A/OE).",
+          "warnings": []
+        },
+        "da": {
+          "headline": "Læg hånden på brystet og tal — mærk vibrationen.",
+          "body": "Det er brystresonans. Syng \"Hej!\" som om du kalder på nogen over gaden. Bevar den fremadrettede, talte kvalitet når du synger på tone.",
+          "exercises": [
+            "Øvelse: \"Hej du!\" projektion på skalaer",
+            "Øvelse: Talesyng og tæl 1–10"
+          ],
+          "cvtNote": "I CVT produceres brystdominerede lyde med Overdrive -mode (råbende, direkte, vokaler: EH/OH) eller Edge -mode (skarp, twanget, vokaler: I/EH/A/OE).",
+          "warnings": []
+        }
+      },
+      "resources": [
+        {
+          "label": "Chest Voice Tutorial",
+          "url": "https://www.youtube.com/results?search_query=chest+voice+singing+tutorial"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/chest-voice/"
+    },
+    {
+      "slug": "head-voice",
+      "id": "tech-head-voice",
+      "name": "Head Voice",
+      "category": "registers",
+      "difficulty": 2,
+      "examples": "Freddie Mercury, Whitney Houston, Pavarotti, Ariana Grande",
+      "prerequisites": [],
+      "description": {
+        "en": "Thinner folds, full closure. Rich resonance in upper range.",
+        "da": "Tyndere stemmebånd, fuld lukning. Rig resonans i det høje register."
+      },
+      "character": {
+        "en": "Lighter than chest but with depth and ring. Resonant, clear, projecting. Not breathy.",
+        "da": "Lettere end bryst, men med dybde og klang. Resonant, klar, projicerende. Ikke luftig."
+      },
+      "howTo": {
+        "en": {
+          "headline": "Imagine calling over a fence — \"Hellooo?\"",
+          "body": "That lifting feeling is head voice. Keep cord closure (no air leaking). The sound should ring, not whisper.",
+          "exercises": [
+            "Exercise: \"Hoo\" on descending 5-note scales",
+            "Exercise: \"Wee\" sirens from low to high"
+          ],
+          "cvtNote": "In CVT, this corresponds to Neutral mode in fuller density — full fold closure with a lighter, non-metallic quality. All vowels are available.",
+          "warnings": []
+        },
+        "da": {
+          "headline": "Forestil dig at du kalder over et hegn — \"Hallooo?\"",
+          "body": "Den løftende fornemmelse er hovedklang. Bevar lukning af stemmebåndene (ingen luft slipper ud). Lyden skal ringe, ikke hviske.",
+          "exercises": [
+            "Øvelse: \"Hoo\" på nedadgående 5-tone skalaer",
+            "Øvelse: \"Wee\" sirener fra lav til høj"
+          ],
+          "cvtNote": "I CVT svarer dette til Neutral -mode i fuld densitet — fuld foldlukning med en lettere, ikke-metallisk kvalitet. Alle vokaler er tilgængelige.",
+          "warnings": []
+        }
+      },
+      "resources": [
+        {
+          "label": "Head Voice vs Falsetto",
+          "url": "https://www.youtube.com/results?search_query=head+voice+vs+falsetto+tutorial"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/head-voice/"
+    },
+    {
+      "slug": "falsetto",
+      "id": "tech-falsetto",
+      "name": "Falsetto",
+      "category": "registers",
+      "difficulty": 1,
+      "examples": "Barry Gibb, Jeff Buckley, Thom Yorke, Prince, Justin Timberlake",
+      "prerequisites": [],
+      "description": {
+        "en": "Folds don't fully close. Air leaks through. Light and airy.",
+        "da": "Stemmebåndene lukker ikke helt. Luft slipper igennem. Let og luftig."
+      },
+      "character": {
+        "en": "Breathy, ethereal, flute-like, intimate. Lighter than head voice. Hollow quality.",
+        "da": "Luftig, æterisk, fløjteagtig, intim. Lettere end hovedklang. Hul kvalitet."
+      },
+      "howTo": {
+        "en": {
+          "headline": "Sigh gently on a high note — that airy release is falsetto.",
+          "body": "The vocal folds thin out and partially separate. Don't push volume; let it be light.",
+          "exercises": [
+            "Exercise: Gentle sighs down 5-note scale",
+            "Exercise: \"Hoo\" (like an owl) on high notes"
+          ],
+          "cvtNote": "In CVT, falsetto is classified as Neutral mode in reduced density or \"falsetto\" configuration — thin, hollow sound requiring minimal support energy.",
+          "warnings": []
+        },
+        "da": {
+          "headline": "Suk blidt på en høj tone — den luftige løsladelse er falset.",
+          "body": "Stemmebåndene bliver tynde og adskilles delvist. Pres ikke volumen; lad det være let.",
+          "exercises": [
+            "Øvelse: Bløde suk ned ad 5-tone skala",
+            "Øvelse: \"Hoo\" (som en ugle) på høje toner"
+          ],
+          "cvtNote": "I CVT klassificeres falset som Neutral -mode i reduceret densitet eller \"falset\"-konfiguration — tynd, hul lyd der kræver minimal støtteenergi.",
+          "warnings": []
+        }
+      },
+      "resources": [
+        {
+          "label": "Falsetto Tutorial",
+          "url": "https://www.youtube.com/results?search_query=how+to+sing+falsetto+tutorial"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/falsetto/"
+    },
+    {
+      "slug": "mixed-voice",
+      "id": "tech-mixed-voice",
+      "name": "Mixed Voice",
+      "category": "registers",
+      "difficulty": 4,
+      "examples": "Freddie Mercury, Brendon Urie, Beyoncé, Chris Cornell, Ariana Grande",
+      "prerequisites": [],
+      "description": {
+        "en": "Blend of chest power and head range. The holy grail.",
+        "da": "Blanding af chest power og head range. Den hellige gral."
+      },
+      "character": {
+        "en": "Powerful high notes that feel connected and full. Seamless transition through registers.",
+        "da": "Kraftige høje toner der føles forbundne og fyldte. Sømløs overgang mellem registre."
+      },
+      "howTo": {
+        "en": {
+          "headline": "The bridge between chest and head — neither cracks nor flips.",
+          "body": "Start with bratty \"Nay\" on scales to force cord closure while ascending. Shade vowels toward \"OH/OO\" as you go higher.",
+          "exercises": [
+            "Exercise: Bratty \"Nay\" on octave scales",
+            "Exercise: \"Gee\" ascending (keeps cords together)",
+            "Exercise: \"Gug\" for chest-to-head bridge"
+          ],
+          "cvtNote": "CVT doesn't use the term \"mixed voice.\" The seamless transition between registers is achieved by switching between modes — typically Curbing (restrained, held back) or Edge (sharp, twangy) through the passaggio.",
+          "warnings": []
+        },
+        "da": {
+          "headline": "Broen mellem bryst og hoved — hverken knak eller flip.",
+          "body": "Start med frækt \"Næ\" på skalaer for at tvinge stemmebåndene sammen under stigning. Skift vokaler mod \"OH/OO\" jo højere du synger.",
+          "exercises": [
+            "Øvelse: Frækt \"Næ\" på oktavskalaer",
+            "Øvelse: \"Gee\" opadgående (holder båndene sammen)",
+            "Øvelse: \"Gug\" for bryst-til-hoved bro"
+          ],
+          "cvtNote": "CVT bruger ikke begrebet \"mixstemme.\" Den sømløse overgang mellem registre opnås ved at skifte mellem modes — typisk Curbing (tilbageholdt) eller Edge (skarp, twanget) gennem passaggioen.",
+          "warnings": []
+        }
+      },
+      "resources": [
+        {
+          "label": "Mixed Voice Exercises",
+          "url": "https://www.youtube.com/results?search_query=mixed+voice+exercises+tutorial"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/mixed-voice/"
+    },
+    {
+      "slug": "vocal-fry",
+      "id": "tech-vocal-fry",
+      "name": "Vocal Fry",
+      "category": "registers",
+      "difficulty": 1,
+      "examples": "Billie Eilish, Ke$ha, Britney Spears (talt)",
+      "prerequisites": [],
+      "description": {
+        "en": "Lowest register. Folds are loose and \"bubbling.\"",
+        "da": "Laveste register. Stemmebåndene er løse og \"boblende.\""
+      },
+      "character": {
+        "en": "Creaky, rattling, crackling. Extremely low. Also used as stylistic onset.",
+        "da": "Knirkende, raslende, knagende. Ekstremt lavt. Bruges også som stilistisk ansats."
+      },
+      "howTo": {
+        "en": {
+          "headline": "Relax completely and say \"ahhh\" at the very bottom of your range",
+          "body": "until the voice crackles. Minimal air. The folds are barely vibrating.",
+          "exercises": [
+            "Exercise: \"Ahhh\" at lowest possible pitch",
+            "Exercise: Fry into clean note (onset control)"
+          ],
+          "cvtNote": "",
+          "warnings": []
+        },
+        "da": {
+          "headline": "Slap helt af og sig \"ahhh\" i den allernederste del af dit register",
+          "body": "indtil stemmen knager. Minimal luft. Stemmebåndene vibrerer næsten ikke.",
+          "exercises": [
+            "Øvelse: \"Ahhh\" på lavest mulige tone",
+            "Øvelse: Fry ind i ren tone (ansatskontrol)"
+          ],
+          "cvtNote": "",
+          "warnings": []
+        }
+      },
+      "resources": [
+        {
+          "label": "Vocal Fry Explained",
+          "url": "https://www.youtube.com/results?search_query=vocal+fry+singing+technique"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/vocal-fry/"
+    },
+    {
+      "slug": "whistle-register",
+      "id": "tech-whistle-register",
+      "name": "Whistle Register",
+      "category": "registers",
+      "difficulty": 5,
+      "examples": "Mariah Carey, Minnie Riperton, Ariana Grande, Dimash, David Lee Roth, Jon Bon Jovi",
+      "prerequisites": [],
+      "description": {
+        "en": "Highest possible register. Folds vibrate only at edges.",
+        "da": "Højest mulige register. Kun kanterne af stemmebåndene vibrerer."
+      },
+      "character": {
+        "en": "Piercing, whistle-like, extreme highs. Typically above C6. Very rare.",
+        "da": "Gennemtrængende, fløjteagtig, ekstreme højder. Typisk over C6. Meget sjældent."
+      },
+      "howTo": {
+        "en": {
+          "headline": "Not everyone can access this.",
+          "body": "Start by gently whimpering/squeaking at your very highest range. Minimal air. Think \"tiny\" and \"narrow.\" Don't force.",
+          "exercises": [
+            "Exercise: Gentle squeaks and whimpers",
+            "Exercise: Narrow \"ee\" at extreme top"
+          ],
+          "cvtNote": "",
+          "warnings": [
+            "⚠ Do not push. Many singers cannot safely access this. Work with a coach."
+          ]
+        },
+        "da": {
+          "headline": "Ikke alle kan tilgå dette register.",
+          "body": "Start med forsigtigt at klynke/pippe helt øverst i dit register. Minimal luft. Tænk \"lillebitte\" og \"smal.\" Pres ikke.",
+          "exercises": [
+            "Øvelse: Forsigtige pip og klynk",
+            "Øvelse: Smal \"ii\" på det allerøverste"
+          ],
+          "cvtNote": "",
+          "warnings": [
+            "⚠ Pres ikke. Mange sangere kan ikke tilgå dette sikkert. Arbejd med en coach."
+          ]
+        }
+      },
+      "resources": [
+        {
+          "label": "Whistle Register",
+          "url": "https://www.youtube.com/results?search_query=whistle+register+singing+tutorial"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/whistle-register/"
+    },
+    {
+      "slug": "belting",
+      "id": "tech-belting",
+      "name": "Belting",
+      "category": "styles",
+      "difficulty": 3,
+      "examples": "Whitney Houston, Celine Dion, Freddie Mercury, Beyoncé, Idina Menzel",
+      "prerequisites": [
+        {
+          "slug": "chest-voice",
+          "name": "Chest Voice"
+        },
+        {
+          "slug": "head-voice",
+          "name": "Head Voice"
+        },
+        {
+          "slug": "mixed-voice",
+          "name": "Mixed Voice"
+        }
+      ],
+      "description": {
+        "en": "Powerful, projected chest-dominant singing in higher range.",
+        "da": "Kraftig, projiceret chest-domineret sang i det høje register."
+      },
+      "character": {
+        "en": "Loud, bright, ringing, emotionally intense. Like a controlled shout. The \"money note\" sound.",
+        "da": "Høj, lys, klingende, emotionelt intens. Som et kontrolleret råb. \"Pengene-tonen.\""
+      },
+      "howTo": {
+        "en": {
+          "headline": "Good belting = right balance of chest and head, not just yelling.",
+          "body": "Open mouth naturally, jaw relaxed. Breath support from diaphragm. Bright, forward vowels. Think \"calling out\" not \"pushing up.\"",
+          "exercises": [
+            "Exercise: \"Hey man!\" at increasing pitch",
+            "Exercise: Bratty \"Nae\" on ascending 5ths"
+          ],
+          "cvtNote": "In CVT, belting is achieved through Overdrive mode (vowels: EH, OH — max D5 for women, C5 for men) or Edge mode (vowels: I, EH, A, OE — wider range). It's not \"pushing chest voice up\" but a specific vocal tract configuration.",
+          "warnings": [
+            "⚠ Bad belting (pure chest pushed high) causes strain and nodules. Never belt without warming up."
+          ]
+        },
+        "da": {
+          "headline": "God belting = den rette balance mellem bryst og hoved, ikke bare at råbe.",
+          "body": "Åbn munden naturligt, kæben afslappet. Åndedrætssstøtte fra mellemgulvet. Lyse, fremadrettede vokaler. Tænk \"kald ud\" ikke \"pres op.\"",
+          "exercises": [
+            "Øvelse: \"Hej du!\" på stigende tonehøjde",
+            "Øvelse: Frækt \"Næ\" på stigende kvinter"
+          ],
+          "cvtNote": "I CVT opnås belting gennem Overdrive -mode (vokaler: EH, OH — maks D5 for kvinder, C5 for mænd) eller Edge -mode (vokaler: I, EH, A, OE — bredere register). Det er ikke at \"presse bryststemmen op\" men en specifik stemmekanalskonfiguration.",
+          "warnings": [
+            "⚠ Dårlig belting (ren bryst presset højt op) forårsager belastning og knuder. Belt aldrig uden opvarmning."
+          ]
+        }
+      },
+      "resources": [
+        {
+          "label": "Belting Tutorial",
+          "url": "https://www.youtube.com/results?search_query=how+to+belt+singing+tutorial"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/belting/"
+    },
+    {
+      "slug": "twang",
+      "id": "tech-twang",
+      "name": "Twang",
+      "category": "styles",
+      "difficulty": 2,
+      "examples": "Steven Tyler, Dolly Parton, Brian Johnson, musical theatre",
+      "prerequisites": [
+        {
+          "slug": "chest-voice",
+          "name": "Chest Voice"
+        }
+      ],
+      "description": {
+        "en": "Bright, nasal edge. Narrowed aryepiglottic funnel.",
+        "da": "Lys, nasal kant. Indsnævret aryepiglottisk tragt."
+      },
+      "character": {
+        "en": "Bright, piercing, \"nasal\" but in a good way. Adds volume and cut without extra effort.",
+        "da": "Lys, gennemtrængende, \"nasal\" men på den gode måde. Tilføjer volumen og skarphed uden ekstra anstrengelse."
+      },
+      "howTo": {
+        "en": {
+          "headline": "Think of a duck quacking, or a witch cackling \"nyah nyah!\"",
+          "body": "That nasal, buzzy quality is twang. It narrows the vocal tract, amplifying sound. Hugely useful for projection without strain.",
+          "exercises": [
+            "Exercise: Quack like a duck on scales",
+            "Exercise: \"Nyah nyah\" bratty sound, ascending"
+          ],
+          "cvtNote": "In CVT, \"Necessary Twang\" is one of the three foundational principles for all healthy singing — not just a style. It involves narrowing the epiglottic funnel for clarity and efficiency. Edge mode requires maximum twang.",
+          "warnings": []
+        },
+        "da": {
+          "headline": "Tænk på en and der rapper, eller en heks der kagler \"næh næh!\"",
+          "body": "Den nasale, summende kvalitet er twang. Det indsnævrer stemmekanalen og forstærker lyden. Enormt nyttigt til projektion uden belastning.",
+          "exercises": [
+            "Øvelse: Rap som en and på skalaer",
+            "Øvelse: \"Næh næh\" frækt, opadgående"
+          ],
+          "cvtNote": "I CVT er \"Nødvendig Twang\" et af de tre grundlæggende principper for al sund sang — ikke blot en stilart. Det indebærer indsnævring af den epiglottiske tragt for klarhed og effektivitet. Edge -mode kræver maksimal twang.",
+          "warnings": []
+        }
+      },
+      "resources": [
+        {
+          "label": "Twang Technique",
+          "url": "https://www.youtube.com/results?search_query=twang+vocal+technique+tutorial"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/twang/"
+    },
+    {
+      "slug": "breathy-singing",
+      "id": "tech-breathy-singing",
+      "name": "Breathy Singing",
+      "category": "styles",
+      "difficulty": 1,
+      "examples": "Billie Eilish, Norah Jones, Sade, Bon Iver, Lana Del Rey",
+      "prerequisites": [
+        {
+          "slug": "breath-support",
+          "name": "Breath Support"
+        }
+      ],
+      "description": {
+        "en": "Intentionally letting air leak through the folds.",
+        "da": "Bevidst at lade luft slippe igennem stemmebåndene."
+      },
+      "character": {
+        "en": "Intimate, soft, vulnerable, ASMR-like. Dreamy quality.",
+        "da": "Intim, blød, sårbar, ASMR-agtig. Drømmende kvalitet."
+      },
+      "howTo": {
+        "en": {
+          "headline": "Begin a note with a gentle \"H\" — let air flow before and during the tone.",
+          "body": "Soften cord closure. Keep volume low and microphone close.",
+          "exercises": [
+            "Exercise: \"Hah\" with extra airflow on each note",
+            "Exercise: Whisper phrases, then add minimal tone"
+          ],
+          "cvtNote": "In CVT, breathy singing is Neutral mode with \"air added to the voice\" — Neutral is the only mode that permits audible air as an effect.",
+          "warnings": []
+        },
+        "da": {
+          "headline": "Begynd en tone med et blødt \"H\" — lad luften flyde før og under tonen.",
+          "body": "Blødgør lukningen af stemmebåndene. Hold volumen lav og mikrofonen tæt.",
+          "exercises": [
+            "Øvelse: \"Hah\" med ekstra luftstrøm på hver tone",
+            "Øvelse: Hviskesyng sætninger, tilføj derefter minimal tone"
+          ],
+          "cvtNote": "I CVT er luftig sang Neutral -mode med \"luft tilføjet stemmen\" — Neutral er den eneste mode der tillader hørbar luft som effekt.",
+          "warnings": []
+        }
+      },
+      "resources": [
+        {
+          "label": "Breathy Singing",
+          "url": "https://www.youtube.com/results?search_query=breathy+singing+technique+tutorial"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/breathy-singing/"
+    },
+    {
+      "slug": "vowel-modification",
+      "id": "tech-vowel-modification",
+      "name": "Vowel Modification",
+      "category": "styles",
+      "difficulty": 3,
+      "examples": "Chris Cornell, Pavarotti, Beyoncé — alle store sangere",
+      "prerequisites": [
+        {
+          "slug": "chest-voice",
+          "name": "Chest Voice"
+        },
+        {
+          "slug": "head-voice",
+          "name": "Head Voice"
+        }
+      ],
+      "description": {
+        "en": "Shifting vowel shapes as you ascend to maintain resonance.",
+        "da": "Ændring af vokalformer i opstigning for at bevare resonans."
+      },
+      "character": {
+        "en": "Allows high notes to sound open and free instead of squeezed. Invisible to the audience.",
+        "da": "Får høje toner til at lyde åbne og frie i stedet for klemte. Usynligt for publikum."
+      },
+      "howTo": {
+        "en": {
+          "headline": "As you sing higher, narrow your vowels slightly.",
+          "body": "\"AH\" → \"UH\", \"EE\" → \"IH\", \"AY\" → \"EH\". This matches the resonant frequency of your vocal tract to the pitch.",
+          "exercises": [
+            "Exercise: Sing \"Ah\" up a scale, let it shade to \"Uh\" above the break",
+            "Exercise: \"Me\" → \"Meh\" → \"Muh\" ascending"
+          ],
+          "cvtNote": "CVT handles this differently: each mode has strict vowel rules . Overdrive: EH, OH only. Edge: I, EH, A, OE only. Curbing: UH, O, OO only. Neutral: all vowels. Instead of gradually shading vowels, CVT singers choose the right mode for the vowel and pitch.",
+          "warnings": []
+        },
+        "da": {
+          "headline": "Jo højere du synger, desto mere indsnævrer du vokalerne.",
+          "body": "\"AH\" → \"UH\", \"EE\" → \"IH\", \"AY\" → \"EH\". Dette matcher resonansfrekvensen i din stemmekanal til tonehøjden.",
+          "exercises": [
+            "Øvelse: Syng \"Ah\" op ad en skala, lad det glide til \"Uh\" over bruddet",
+            "Øvelse: \"Me\" → \"Meh\" → \"Muh\" opadgående"
+          ],
+          "cvtNote": "CVT håndterer dette anderledes: hver mode har strenge vokalregler . Overdrive: kun EH, OH. Edge: kun I, EH, A, OE. Curbing: kun UH, O, OO. Neutral: alle vokaler. I stedet for gradvist at ændre vokaler vælger CVT-sangere den rette mode til vokal og tonehøjde.",
+          "warnings": []
+        }
+      },
+      "resources": [
+        {
+          "label": "Vowel Modification",
+          "url": "https://www.youtube.com/results?search_query=vowel+modification+singing+tutorial"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/vowel-modification/"
+    },
+    {
+      "slug": "grit-rasp",
+      "id": "tech-grit-rasp",
+      "name": "Grit / Rasp",
+      "category": "effects",
+      "difficulty": 4,
+      "examples": "Rod Stewart, Janis Joplin, Joe Cocker, Adele, Chris Cornell",
+      "prerequisites": [
+        {
+          "slug": "chest-voice",
+          "name": "Chest Voice"
+        },
+        {
+          "slug": "breath-support",
+          "name": "Breath Support"
+        }
+      ],
+      "description": {
+        "en": "Controlled distortion. False folds or overtone break-up.",
+        "da": "Kontrolleret distortion. False folds eller overtoneopbrydning."
+      },
+      "character": {
+        "en": "Gravelly, raw, smoky, edgy. Adds emotional intensity and rock texture.",
+        "da": "Grusbeklædt, rå, røget, skarp. Tilføjer emotionel intensitet og rock-tekstur."
+      },
+      "howTo": {
+        "en": {
+          "headline": "Do NOT squeeze your throat.",
+          "body": "Healthy grit comes from structures above the cords (false folds, overtone saturation). Start with a light dog-growl. Think \"witch cackle.\" Keep throat relaxed — tighten only diaphragm.",
+          "exercises": [
+            "Exercise: Light dog growl on sustained notes",
+            "Exercise: Witch cackle → bring into pitched singing"
+          ],
+          "cvtNote": "CVT classifies grit/rasp as an effect that can be layered on top of any mode. Research confirms these are supraglottic sound sources (false folds, arytenoids) — not damage to the true vocal folds when done correctly.",
+          "warnings": [
+            "⚠ If it hurts, stop immediately. Master clean singing first."
+          ]
+        },
+        "da": {
+          "headline": "Pres IKKE halsen sammen.",
+          "body": "Sund grit kommer fra strukturer over stemmebåndene (falske folder, overtonemætning). Start med et let hundegrynt. Tænk \"heksekaglen.\" Hold halsen afslappet — stram kun mellemgulvet.",
+          "exercises": [
+            "Øvelse: Let hundegrynt på holdte toner",
+            "Øvelse: Heksekaglen → bring ind i tonesang"
+          ],
+          "cvtNote": "CVT klassificerer grit/rasp som en effekt der kan lægges oven på enhver mode. Forskning bekræfter at disse er supraglottiske lydkilder (falske folder, arytænoider) — ikke skade på de rigtige stemmebånd når det gøres korrekt.",
+          "warnings": [
+            "⚠ Gør det ondt, stop straks. Mestér ren sang først."
+          ]
+        }
+      },
+      "resources": [
+        {
+          "label": "Safe Vocal Grit",
+          "url": "https://www.youtube.com/results?search_query=vocal+grit+rasp+safe+technique"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/grit-rasp/"
+    },
+    {
+      "slug": "distortion-overdrive",
+      "id": "tech-distortion-overdrive",
+      "name": "Distortion / Overdrive",
+      "category": "effects",
+      "difficulty": 5,
+      "examples": "Chester Bennington, James Hetfield, Chris Cornell, Axl Rose, Corey Taylor",
+      "prerequisites": [
+        {
+          "slug": "grit-rasp",
+          "name": "Grit / Rasp"
+        },
+        {
+          "slug": "mixed-voice",
+          "name": "Mixed Voice"
+        },
+        {
+          "slug": "breath-support",
+          "name": "Breath Support"
+        }
+      ],
+      "description": {
+        "en": "Heavy grit. False fold compression. Aggressive texture.",
+        "da": "Tung grit. False fold compression. Aggressiv tekstur."
+      },
+      "character": {
+        "en": "Screaming, growling, aggressive power. From hard rock rasp to full metal scream.",
+        "da": "Skrigene, gryntende, aggressiv kraft. Fra hård rock-rasp til fuldt metal-skrig."
+      },
+      "howTo": {
+        "en": {
+          "headline": "False fold engagement + compression + breath support.",
+          "body": "The false folds cover the true vocal folds to create buzz. Think \"clearing your throat\" gently, then sustain. Strong diaphragm support is critical.",
+          "exercises": [
+            "Exercise: Throat-clear → sustain the rattle on pitch",
+            "Exercise: Kargyraa-style low buzzing"
+          ],
+          "cvtNote": "CVT note — terminology",
+          "warnings": [
+            "⚠ High risk. Requires solid clean singing foundation. Work with a specialist. Never push through pain."
+          ]
+        },
+        "da": {
+          "headline": "Falsk fold-aktivering + kompression + åndedrætssstøtte.",
+          "body": "De falske folder dækker de rigtige stemmebånd og skaber buzz. Tænk \"rømme sig\" blidt, hold det derefter. Stærk mellemgulvsstøtte er afgørende.",
+          "exercises": [
+            "Øvelse: Røm dig → hold raslen på tone",
+            "Øvelse: Kargyraa-stil lav brummen"
+          ],
+          "cvtNote": "CVT note — terminologi",
+          "warnings": [
+            "⚠ Høj risiko. Kræver solid fundament i ren sang. Arbejd med specialist. Syng aldrig igennem smerte."
+          ]
+        }
+      },
+      "resources": [
+        {
+          "label": "Distortion Safely",
+          "url": "https://www.youtube.com/results?search_query=vocal+distortion+safe+singing+technique"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/distortion-overdrive/"
+    },
+    {
+      "slug": "growl",
+      "id": "tech-growl",
+      "name": "Growl",
+      "category": "effects",
+      "difficulty": 3,
+      "examples": "Christina Aguilera, James Brown, Tina Turner",
+      "prerequisites": [
+        {
+          "slug": "chest-voice",
+          "name": "Chest Voice"
+        },
+        {
+          "slug": "grit-rasp",
+          "name": "Grit / Rasp"
+        }
+      ],
+      "description": {
+        "en": "Short, sharp burst of distortion at note onset.",
+        "da": "Kort, skarpt udbrud af distortion ved note onset."
+      },
+      "character": {
+        "en": "Aggressive \"punch\" at note start. Adds attitude. Short, not sustained. Not the same as metal/hardcore growling — this is a brief ornamental onset, not a sustained guttural technique.",
+        "da": "Aggressivt \"slag\" ved tonestart. Tilføjer attitude. Kort, ikke vedvarende. Ikke det samme som metal/hardcore growling — dette er en kort ornamental onset, ikke en vedvarende guttural teknik."
+      },
+      "howTo": {
+        "en": {
+          "headline": "A brief false fold \"bite\" at the very beginning of a note.",
+          "body": "Short grunt or bark — then open into clean tone. Ornamental, not sustained.",
+          "exercises": [
+            "Exercise: Short bark → clean sustained note",
+            "Exercise: \"Grr-ahh\" on single notes"
+          ],
+          "cvtNote": "",
+          "warnings": []
+        },
+        "da": {
+          "headline": "Et kort falsk fold-\"bid\" helt i starten af en tone.",
+          "body": "Kort grynt eller bjæf — åbn derefter i ren tone. Ornamentalt, ikke vedvarende.",
+          "exercises": [
+            "Øvelse: Kort bjæf → ren holdt tone",
+            "Øvelse: \"Grr-ahh\" på enkelttoner"
+          ],
+          "cvtNote": "",
+          "warnings": []
+        }
+      },
+      "resources": [
+        {
+          "label": "Vocal Growl",
+          "url": "https://www.youtube.com/results?search_query=vocal+growl+technique+tutorial"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/growl/"
+    },
+    {
+      "slug": "cry-sob",
+      "id": "tech-cry-sob",
+      "name": "Cry / Sob",
+      "category": "effects",
+      "difficulty": 2,
+      "examples": "Sam Smith, Sinead O'Connor, Jeff Buckley, Adele, Ray Charles",
+      "prerequisites": [
+        {
+          "slug": "head-voice",
+          "name": "Head Voice"
+        },
+        {
+          "slug": "breath-support",
+          "name": "Breath Support"
+        }
+      ],
+      "description": {
+        "en": "Tilted larynx, thinned folds. Emotional, vulnerable quality.",
+        "da": "Tilted larynx, tynde folds. Emotionel, sårbar kvalitet."
+      },
+      "character": {
+        "en": "Emotional, pleading, vulnerable. A \"lump in the throat\" sound.",
+        "da": "Emotionel, bedende, sårbar. En \"klump i halsen\"-lyd."
+      },
+      "howTo": {
+        "en": {
+          "headline": "Imagine you're about to cry — that tilted larynx and thinned sound is \"cry mode.\"",
+          "body": "Thins the voice without going into falsetto. Extremely useful for emotional passages and safe mix voice access.",
+          "exercises": [
+            "Exercise: Whimper like a puppy on pitch",
+            "Exercise: Sob-sigh into sustained notes"
+          ],
+          "cvtNote": "In CVT, the emotional \"cry\" quality is closely associated with Curbing mode — restrained, held back, with a \"light hold\" sensation. Curbing naturally produces a vulnerable, emotional sound.",
+          "warnings": []
+        },
+        "da": {
+          "headline": "Forestil dig at du er ved at græde — det vippede strubehoved og tynde lyd er \"græde-mode.\"",
+          "body": "Tynder stemmen uden at gå i falset. Ekstremt nyttigt til emotionelle passager og sikker adgang til mixstemme.",
+          "exercises": [
+            "Øvelse: Klynk som en hundehvalp på tone",
+            "Øvelse: Hulke-suk ind i holdte toner"
+          ],
+          "cvtNote": "I CVT er den emotionelle \"græde\"-kvalitet tæt forbundet med Curbing -mode — tilbageholdt, med en \"let hold\"-fornemmelse. Curbing producerer naturligt en sårbar, emotionel lyd.",
+          "warnings": []
+        }
+      },
+      "resources": [
+        {
+          "label": "Cry Technique",
+          "url": "https://www.youtube.com/results?search_query=cry+sob+vocal+technique+singing"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/cry-sob/"
+    },
+    {
+      "slug": "vibrato",
+      "id": "tech-vibrato",
+      "name": "Vibrato",
+      "category": "ornaments",
+      "difficulty": 2,
+      "examples": "Whitney Houston, Freddie Mercury, Adele, Pavarotti",
+      "prerequisites": [
+        {
+          "slug": "breath-support",
+          "name": "Breath Support"
+        }
+      ],
+      "description": {
+        "en": "Natural oscillation of pitch on sustained notes.",
+        "da": "Naturlig svingning i pitch på sustained notes."
+      },
+      "character": {
+        "en": "Warm, alive, shimmering. Pitch wobbles slightly above and below center.",
+        "da": "Varm, levende, glitrende. Tonehøjden svinger let over og under center."
+      },
+      "howTo": {
+        "en": {
+          "headline": "Natural vibrato comes from relaxation, not forcing.",
+          "body": "Proper breath support + released tension = vibrato appears on its own. Relax jaw, tongue, throat while maintaining diaphragm support.",
+          "exercises": [
+            "Exercise: Sustain \"Ah\" — pulsate diaphragm gently",
+            "Exercise: Alternate two neighboring notes fast → slow until it blends"
+          ],
+          "cvtNote": "",
+          "warnings": []
+        },
+        "da": {
+          "headline": "Naturlig vibrato kommer af afslapning, ikke tvang.",
+          "body": "Korrekt åndedrætssstøtte + frigivet spænding = vibrato opstår af sig selv. Afslap kæbe, tunge, hals mens du opretholder mellemgulvsstøtte.",
+          "exercises": [
+            "Øvelse: Hold \"Ah\" — pulsér mellemgulvet blidt",
+            "Øvelse: Skift mellem to nabotoner hurtigt → langsomt til det smelter sammen"
+          ],
+          "cvtNote": "",
+          "warnings": []
+        }
+      },
+      "resources": [
+        {
+          "label": "Vibrato Tutorial",
+          "url": "https://www.youtube.com/results?search_query=vibrato+singing+tutorial+exercise"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/vibrato/"
+    },
+    {
+      "slug": "runs-riffs",
+      "id": "tech-runs-riffs",
+      "name": "Runs / Riffs",
+      "category": "ornaments",
+      "difficulty": 4,
+      "examples": "Mariah Carey, Whitney Houston, Christina Aguilera, Stevie Wonder",
+      "prerequisites": [
+        {
+          "slug": "chest-voice",
+          "name": "Chest Voice"
+        },
+        {
+          "slug": "head-voice",
+          "name": "Head Voice"
+        }
+      ],
+      "description": {
+        "en": "Rapid sequences of notes within a melody.",
+        "da": "Hurtige sekvenser af toner inden for en melodi."
+      },
+      "character": {
+        "en": "Dazzling, virtuosic, soulful. Fast cascading notes. Gospel/R&B signature.",
+        "da": "Blændende, virtuost, soulfuldt. Hurtige kaskadende toner. Gospel/R&B signatur."
+      },
+      "howTo": {
+        "en": {
+          "headline": "Start SLOW.",
+          "body": "Learn the exact notes before speeding up. Use a piano to identify each pitch. Practice at half speed, then 75%, then full. Runs are muscle memory.",
+          "exercises": [
+            "Exercise: Slow 5-note scale runs → gradually speed up",
+            "Exercise: Pick a famous run, learn each note individually"
+          ],
+          "cvtNote": "",
+          "warnings": []
+        },
+        "da": {
+          "headline": "Start LANGSOMT.",
+          "body": "Lær de præcise toner før du øger tempo. Brug et klaver til at identificere hver tone. Øv i halvt tempo, så 75%, så fuldt. Runs er muskelhukommelse.",
+          "exercises": [
+            "Øvelse: Langsomme 5-tone skala-runs → øg gradvist tempo",
+            "Øvelse: Vælg et berømt run, lær hver tone individuelt"
+          ],
+          "cvtNote": "",
+          "warnings": []
+        }
+      },
+      "resources": [
+        {
+          "label": "Vocal Runs Tutorial",
+          "url": "https://www.youtube.com/results?search_query=vocal+runs+riffs+tutorial+exercise"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/runs-riffs/"
+    },
+    {
+      "slug": "pitch-bending",
+      "id": "tech-pitch-bending",
+      "name": "Pitch Bending",
+      "category": "ornaments",
+      "difficulty": 2,
+      "examples": "B.B. King, Ray Charles, Stevie Wonder, Chris Cornell",
+      "prerequisites": [
+        {
+          "slug": "chest-voice",
+          "name": "Chest Voice"
+        }
+      ],
+      "description": {
+        "en": "Sliding into or between notes instead of hitting them directly.",
+        "da": "Glider ind i eller mellem toner i stedet for at ramme dem direkte."
+      },
+      "character": {
+        "en": "Smooth, soulful, bluesy. Makes melodies feel human and emotional.",
+        "da": "Glidende, soulfuld, bluesy. Får melodier til at føles menneskelige og emotionelle."
+      },
+      "howTo": {
+        "en": {
+          "headline": "Approach a note from slightly below (scoop) or above (fall).",
+          "body": "Slide into it instead of landing clean. Can also bend between two notes without steps.",
+          "exercises": [
+            "Exercise: Sing a note, then approach from a half-step below",
+            "Exercise: Portamento slides between intervals"
+          ],
+          "cvtNote": "",
+          "warnings": []
+        },
+        "da": {
+          "headline": "Tilnærm en tone fra lidt nedenunder (scoop) eller ovenover (fall).",
+          "body": "Glid ind i den i stedet for at lande rent. Kan også bøje mellem to toner uden trin.",
+          "exercises": [
+            "Øvelse: Syng en tone, tilnærm derefter fra en halvtone under",
+            "Øvelse: Portamento-glid mellem intervaller"
+          ],
+          "cvtNote": "",
+          "warnings": []
+        }
+      },
+      "resources": [
+        {
+          "label": "Pitch Bending",
+          "url": "https://www.youtube.com/results?search_query=pitch+bending+singing+technique"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/pitch-bending/"
+    },
+    {
+      "slug": "glottal-stop",
+      "id": "tech-glottal-stop",
+      "name": "Glottal Stop",
+      "category": "ornaments",
+      "difficulty": 2,
+      "examples": "Adele (signatur), de fleste popsangere bruger det selektivt",
+      "prerequisites": [
+        {
+          "slug": "vocal-fry",
+          "name": "Vocal Fry"
+        }
+      ],
+      "description": {
+        "en": "Brief closure of vocal folds before a note. Adds \"attack.\"",
+        "da": "Kort lukning af vocal folds før en tone. Tilføjer \"attack.\""
+      },
+      "character": {
+        "en": "Punchy, percussive note beginnings. Adds emphasis. Like a tiny \"click\" before tone.",
+        "da": "Punchy, perkussive tonestartar. Tilføjer betoning. Som et lille \"klik\" før tonen."
+      },
+      "howTo": {
+        "en": {
+          "headline": "Say \"uh-oh\" — that little stop is a glottal stop.",
+          "body": "Use sparingly on emotionally important words. Overuse creates tension. Default should be simultaneous onset.",
+          "exercises": [
+            "Exercise: \"Uh-oh\" — isolate the stop feeling",
+            "Exercise: Apply to first word of a phrase only"
+          ],
+          "cvtNote": "",
+          "warnings": []
+        },
+        "da": {
+          "headline": "Sig \"uh-oh\" — det lille stop er et glottalt stop.",
+          "body": "Brug sparsomt på emotionelt vigtige ord. Overbrug skaber spænding. Standard bør være samtidig ansats.",
+          "exercises": [
+            "Øvelse: \"Uh-oh\" — isolér stop-følelsen",
+            "Øvelse: Anvend kun på første ord i en frase"
+          ],
+          "cvtNote": "",
+          "warnings": []
+        }
+      },
+      "resources": [
+        {
+          "label": "Vocal Onsets",
+          "url": "https://www.youtube.com/results?search_query=glottal+onset+vocal+technique"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/glottal-stop/"
+    },
+    {
+      "slug": "breath-support",
+      "id": "tech-breath-support",
+      "name": "Breath Support",
+      "category": "dynamics",
+      "difficulty": 1,
+      "examples": "Literally every great singer. Period. Bogstaveligt talt enhver stor sanger. Punktum.",
+      "prerequisites": [],
+      "description": {
+        "en": "THE foundation. Everything depends on this.",
+        "da": "DET grundlæggende. Alt afhænger af dette."
+      },
+      "character": {
+        "en": "Not a \"sound\" — it's the engine behind every sound. Proper support = power, control, endurance, safety.",
+        "da": "Ikke en \"lyd\" — det er motoren bag enhver lyd. Korrekt støtte = kraft, kontrol, udholdenhed, sikkerhed."
+      },
+      "howTo": {
+        "en": {
+          "headline": "Breathe low into belly, sides, and back — not chest/shoulders.",
+          "body": "Place hands on sides below ribs. Inhale — feel expansion. Exhale on \"Sss\" — control the release with your abdominal wall.",
+          "exercises": [
+            "Exercise: \"Sss\" sustained — aim for 30+ sec",
+            "Exercise: Farinelli breathing (inhale 4, hold 4, exhale 8)",
+            "Exercise: Lip trills on scales"
+          ],
+          "cvtNote": "CVT calls this Support — the first of three overall principles. It emphasizes coordinated engagement of abdominal, waist, solar plexus, and back muscles. CVT's definition aligns closely with what this guide describes.",
+          "warnings": []
+        },
+        "da": {
+          "headline": "Træk vejret lavt ned i mave, sider og ryg — ikke bryst/skuldre.",
+          "body": "Placer hænderne på siderne under ribbenene. Indånd — mærk udvidelsen. Udånd på \"Sss\" — kontrollér udslippet med bugvæggen.",
+          "exercises": [
+            "Øvelse: \"Sss\" holdt — sigt efter 30+ sek",
+            "Øvelse: Farinelli-åndedræt (indånd 4, hold 4, udånd 8)",
+            "Øvelse: Læbetriller på skalaer"
+          ],
+          "cvtNote": "CVT kalder dette Støtte (Support) — det første af tre overordnede principper. Det betoner koordineret aktivering af mave-, talje-, solar plexus- og rygmuskler. CVTs definition stemmer godt overens med denne guides beskrivelse.",
+          "warnings": []
+        }
+      },
+      "resources": [
+        {
+          "label": "Breath Support",
+          "url": "https://www.youtube.com/results?search_query=breath+support+singing+tutorial+diaphragm"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/breath-support/"
+    },
+    {
+      "slug": "messa-di-voce",
+      "id": "tech-messa-di-voce",
+      "name": "Messa di Voce",
+      "category": "dynamics",
+      "difficulty": 4,
+      "examples": "Pavarotti, Freddie Mercury, Jeff Buckley, Adele",
+      "prerequisites": [
+        {
+          "slug": "breath-support",
+          "name": "Breath Support"
+        }
+      ],
+      "description": {
+        "en": "Crescendo → decrescendo on a single note.",
+        "da": "Crescendo → decrescendo på én enkelt tone."
+      },
+      "character": {
+        "en": "Ultimate dynamic control. A note that swells from silence to full power and back.",
+        "da": "Ultimativ dynamisk kontrol. En tone der svulmer fra stilhed til fuld kraft og tilbage."
+      },
+      "howTo": {
+        "en": {
+          "headline": "Start a note as quietly as possible. Gradually increase to full volume. Decrease back to nothing.",
+          "body": "All on one breath, one pitch. Requires exceptional breath control.",
+          "exercises": [
+            "Exercise: Single note — pp → ff → pp (10 seconds)",
+            "Exercise: Do it on every note in your range"
+          ],
+          "cvtNote": "",
+          "warnings": []
+        },
+        "da": {
+          "headline": "Start en tone så stille som muligt. Øg gradvist til fuld volumen. Sænk tilbage til intet.",
+          "body": "Alt på ét åndedrag, én tone. Kræver exceptionel åndedrætkontrol.",
+          "exercises": [
+            "Øvelse: Enkelttone — pp → ff → pp (10 sekunder)",
+            "Øvelse: Gør det på hver tone i dit register"
+          ],
+          "cvtNote": "",
+          "warnings": []
+        }
+      },
+      "resources": [
+        {
+          "label": "Messa di Voce",
+          "url": "https://www.youtube.com/results?search_query=messa+di+voce+singing+exercise"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/messa-di-voce/"
+    },
+    {
+      "slug": "dynamic-contrast",
+      "id": "tech-dynamic-contrast",
+      "name": "Dynamic Contrast",
+      "category": "dynamics",
+      "difficulty": 2,
+      "examples": "Kurt Cobain (quiet/loud), Adele, Thom Yorke, Hozier, Billie Eilish",
+      "prerequisites": [
+        {
+          "slug": "breath-support",
+          "name": "Breath Support"
+        },
+        {
+          "slug": "messa-di-voce",
+          "name": "Messa di Voce"
+        }
+      ],
+      "description": {
+        "en": "Intentional shifts between soft and loud within a song.",
+        "da": "Bevidste skift mellem blødt og højt inden for en sang."
+      },
+      "character": {
+        "en": "Creates emotional impact. A whispered verse exploding into a powerful chorus.",
+        "da": "Skaber emotionel effekt. Et hvisket vers der eksploderer i et kraftigt omkvæd."
+      },
+      "howTo": {
+        "en": {
+          "headline": "Map your dynamics before performing.",
+          "body": "Decide where soft, where build, where explode. The contrast creates emotion — constant volume is boring regardless of power.",
+          "exercises": [
+            "Exercise: Sing a phrase at volumes 1 through 5",
+            "Exercise: Whisper a verse → belt the chorus"
+          ],
+          "cvtNote": "",
+          "warnings": []
+        },
+        "da": {
+          "headline": "Planlæg din dynamik før du synger.",
+          "body": "Beslut hvad der er blødt, hvor du bygger op, hvor du eksploderer. Kontrasten skaber følelse — konstant volumen er kedeligt uanset kraft.",
+          "exercises": [
+            "Øvelse: Syng en frase i volumen 1 til 5",
+            "Øvelse: Hvisk et vers → belt omkvædet"
+          ],
+          "cvtNote": "",
+          "warnings": []
+        }
+      },
+      "resources": [
+        {
+          "label": "Dynamic Singing",
+          "url": "https://www.youtube.com/results?search_query=dynamic+contrast+singing+technique"
+        }
+      ],
+      "upstreamUrl": "https://jesperordrup.github.io/vocal-guide/techniques/dynamic-contrast/"
+    }
+  ],
+  "guides": {
+    "intro": {
+      "en": {
+        "title": "Introduction to Singing",
+        "sections": [
+          {
+            "heading": "Can anyone learn to sing?",
+            "paragraphs": [
+              "Yes. Singing is a motor skill, not a gift. Some people have natural advantages (vocal fold length, resonance cavities), but pitch accuracy, tone quality, breath control, and range are all trainable. If you can speak, you can learn to sing."
+            ]
+          },
+          {
+            "heading": "Where are you right now?",
+            "paragraphs": [
+              "Before you start, honestly assess your current state:",
+              "These aren't tests — they're starting points. Wherever you are is fine."
+            ],
+            "bullets": [
+              "Pitch: Can you match a note played on a piano? Can you tell if two notes are the same or different?",
+              "Breathing: Do you breathe into your chest or your belly? Can you sustain a hiss (\"Sss\") for 15 seconds?",
+              "Range: How many notes can you comfortably sing, low to high? (Don't worry if you don't know — you'll discover this.)",
+              "Tension: Does your jaw clench, your throat tighten, or your shoulders rise when you sing?"
+            ]
+          },
+          {
+            "heading": "Is your body ready?",
+            "paragraphs": [
+              "Singing is physical. Before you focus on technique:"
+            ],
+            "bullets": [
+              "Posture: Stand tall, shoulders relaxed, chest open. See the Anatomy section for details.",
+              "Hydration: Drink water consistently throughout the day. Your vocal folds need systemic hydration — not just a sip before singing.",
+              "Tension: Roll your neck, shrug and drop shoulders, massage your jaw. Tension is the enemy of good singing.",
+              "Breathing: Practice breathing into your belly, sides, and lower back. This is your foundation."
+            ]
+          },
+          {
+            "heading": "What are realistic goals?",
+            "paragraphs": [
+              "Set starting goals, not dream goals. Here's what beginners should aim for first:",
+              "End goals will evolve as you grow. Don't aim for belting high notes or vocal effects yet — build the foundation first. Think of it like sports: you learn to run before you sprint."
+            ],
+            "bullets": [
+              "Sing a simple melody on pitch (in tune)",
+              "Sustain a note steadily for 10+ seconds",
+              "Breathe from the diaphragm without thinking about it",
+              "Sing without throat tension or pain",
+              "Identify your comfortable range (low to high)"
+            ]
+          },
+          {
+            "heading": "How to use this guide",
+            "paragraphs": [
+              "This vocal guide is a reference, not a course. Here's the recommended approach:"
+            ],
+            "bullets": [
+              "Start with the Beginner Guide — it gives you a structured routine and method.",
+              "Read Anatomy — understand what's physically happening when you sing.",
+              "Use Warm-Up — every time, before you sing. No exceptions.",
+              "Check Vocal Myths — unlearn bad advice early.",
+              "Explore the technique tables — start with Registers (difficulty 1–2), then Dynamics (breath support)."
+            ]
+          },
+          {
+            "heading": "What order should you learn?",
+            "paragraphs": [
+              "Follow this progression — each step builds on the previous:"
+            ],
+            "bullets": [
+              "1. Breath Support — Everything depends on this. Learn it first.",
+              "2. Chest Voice — Your natural speaking register. Get comfortable here.",
+              "3. Head Voice — Learn to access your upper register with full closure.",
+              "4. Falsetto — Explore lightness and the top of your range.",
+              "5. Pitch & Ear Training — Match notes, sing scales in tune.",
+              "6. Mixed Voice — Bridge chest and head. This takes time.",
+              "7. Dynamics & Expression — Soft/loud, vibrato, emotion.",
+              "8. Styles & Effects — Belting, twang, grit, etc. Only after the above are solid."
+            ]
+          },
+          {
+            "heading": "Should you get a vocal coach?",
+            "paragraphs": [
+              "Yes, if at all possible. A guide like this can teach you concepts and exercises, but it can't hear you. A vocal coach provides real-time feedback, catches bad habits before they become injuries, and accelerates your progress dramatically. Even a few lessons make a huge difference.",
+              "If lessons aren't an option right now, use this guide carefully, record yourself often, and follow the golden rule: if it hurts, stop."
+            ]
+          }
+        ]
+      },
+      "da": {
+        "title": "Introduktion til sang",
+        "sections": [
+          {
+            "heading": "Kan alle lære at synge?",
+            "paragraphs": [
+              "Ja. Sang er en motorisk færdighed, ikke en gave. Nogle har naturlige fordele (stemmebåndslængde, resonansrum), men tonehøjdepræcision, klangkvalitet, åndedrætskontrol og register er alt sammen trænbart. Hvis du kan tale, kan du lære at synge."
+            ]
+          },
+          {
+            "heading": "Hvor er du nu?",
+            "paragraphs": [
+              "Før du starter, vurdér ærligt din nuværende tilstand:",
+              "Det er ikke tests — det er udgangspunkter. Uanset hvor du er, er det fint."
+            ],
+            "bullets": [
+              "Tonehøjde: Kan du ramme en tone spillet på et klaver? Kan du høre om to toner er ens eller forskellige?",
+              "Åndedræt: Trækker du vejret ind i brystet eller maven? Kan du holde en hvæselyd (\"Sss\") i 15 sekunder?",
+              "Register: Hvor mange toner kan du komfortabelt synge, lavt til højt? (Bare rolig hvis du ikke ved det — du finder ud af det.)",
+              "Spænding: Klemmer din kæbe sammen, strammer din hals, eller løfter dine skuldre sig når du synger?"
+            ]
+          },
+          {
+            "heading": "Er din krop klar?",
+            "paragraphs": [
+              "Sang er fysisk. Før du fokuserer på teknik:"
+            ],
+            "bullets": [
+              "Kropsholdning: Stå højt, skuldre afslappet, bryst åbent. Se Anatomi -sektionen for detaljer.",
+              "Hydrering: Drik vand konsekvent hele dagen. Dine stemmebånd har brug for systemisk hydrering — ikke bare en slurk før sang.",
+              "Spænding: Rul nakken, træk skuldrene op og slip, masserér kæben. Spænding er fjenden af god sang.",
+              "Åndedræt: Øv dig i at trække vejret ned i mave, sider og lænd. Det er dit fundament."
+            ]
+          },
+          {
+            "heading": "Hvad er realistiske mål?",
+            "paragraphs": [
+              "Sæt start mål, ikke drømmemål. Her er hvad begyndere bør sigte efter først:",
+              "Slutmål udvikler sig i takt med at du vokser. Sigt ikke efter belting-højder eller vokaleffekter endnu — byg fundamentet først. Tænk på det som sport: du lærer at løbe før du sprinter."
+            ],
+            "bullets": [
+              "Synge en simpel melodi rent (i tune)",
+              "Holde en tone stabilt i 10+ sekunder",
+              "Trække vejret fra mellemgulvet uden at tænke over det",
+              "Synge uden halsspænding eller smerte",
+              "Identificere dit komfortable register (lavt til højt)"
+            ]
+          },
+          {
+            "heading": "Sådan bruger du denne guide",
+            "paragraphs": [
+              "Denne vokalguide er en reference, ikke et kursus. Her er den anbefalede tilgang:"
+            ],
+            "bullets": [
+              "Start med Begynderguiden — den giver dig en struktureret rutine og metode.",
+              "Læs Anatomi — forstå hvad der fysisk sker når du synger.",
+              "Brug Opvarmning — hver gang, før du synger. Ingen undtagelser.",
+              "Tjek Myter — aflær dårlige råd tidligt.",
+              "Udforsk tekniktabellerne — start med Registre (sværhedsgrad 1–2), derefter Dynamik (åndedrætsstøtte)."
+            ]
+          },
+          {
+            "heading": "Hvilken rækkefølge skal du lære?",
+            "paragraphs": [
+              "Følg denne progression — hvert trin bygger på det forrige:"
+            ],
+            "bullets": [
+              "1. Åndedrætsstøtte — Alt afhænger af dette. Lær det først.",
+              "2. Bryststemme — Dit naturlige taleregister. Bliv fortrolig her.",
+              "3. Hovedklang — Lær at tilgå dit øvre register med fuld lukning.",
+              "4. Falset — Udforsk lethed og toppen af dit register.",
+              "5. Tonehøjde & gehør — Ram toner, syng skalaer rent.",
+              "6. Mixstemme — Forbind bryst og hoved. Det tager tid.",
+              "7. Dynamik & udtryk — Svagt/kraftigt, vibrato, følelse.",
+              "8. Stilarter & effekter — Belting, twang, grit osv. Først når ovenstående er solidt."
+            ]
+          },
+          {
+            "heading": "Skal du have en sangcoach?",
+            "paragraphs": [
+              "Ja, hvis det overhovedet er muligt. En guide som denne kan lære dig koncepter og øvelser, men den kan ikke høre dig. En sangcoach giver feedback i realtid, fanger dårlige vaner før de bliver til skader, og accelererer din udvikling dramatisk. Selv få lektioner gør en kæmpe forskel.",
+              "Hvis lektioner ikke er en mulighed lige nu, brug denne guide med omhu, optag dig selv ofte, og følg den gyldne regel: gør det ondt, stop."
+            ]
+          }
+        ]
+      }
+    },
+    "beginner": {
+      "en": {
+        "title": "Beginner Guide",
+        "sections": [
+          {
+            "heading": "",
+            "paragraphs": [
+              "Recommendation: If you can take vocal coach lessons, do it. A coach hears what you can't and prevents bad habits from becoming injuries. This guide is a companion, not a replacement for professional instruction."
+            ]
+          },
+          {
+            "heading": "How to use this guide",
+            "paragraphs": [
+              "This is a practical, step-by-step method. Follow the steps in order. Each exercise builds on the previous. Use this alongside the technique tables in the main guide."
+            ],
+            "bullets": [
+              "Practice consistently — short daily sessions beat long weekly ones",
+              "Record yourself — your ears lie to you; recordings don't",
+              "Rest when tired — vocal fatigue is real and cumulative",
+              "Don't skip warm-ups — use the Warm-Up guide every time"
+            ]
+          },
+          {
+            "heading": "",
+            "paragraphs": [
+              "Step 1: Breathing Foundation (Week 1–2)",
+              "Everything in singing depends on breath control. Master this before moving on.",
+              "Exercise: 4-count inhale → 20-second \"Sss\" exhale × 5 reps",
+              "Exercise: Rib expansion hold → slow exhale on \"Fff\" × 5 reps",
+              "Duration: 10–15 minutes daily. See Breath Support in the guide."
+            ],
+            "bullets": [
+              "Diaphragmatic breathing: Lie on your back with a book on your belly. Breathe so the book rises on inhale and falls on exhale. Your chest should barely move.",
+              "Sustained hiss: Inhale 4 counts, exhale on \"Sss\" as long as possible. Aim for 20 seconds, then 30. This trains exhalation control.",
+              "Rib expansion: Place hands on your sides. Breathe so your ribs push outward. Hold the expansion while exhaling slowly. This is \"appoggio.\""
+            ]
+          },
+          {
+            "heading": "",
+            "paragraphs": [
+              "Step 2: Finding Your Voice (Week 2–3)",
+              "Discover your natural range and get comfortable making sound.",
+              "Exercise: Pitch matching on single notes, 5 seconds each × 10 notes",
+              "Exercise: 5-note descending scale on \"Mah\" — start mid-range, move down",
+              "Duration: 10–15 minutes daily. See Chest Voice in the guide."
+            ],
+            "bullets": [
+              "Speak-sing: Say a sentence at your normal pitch. Now \"sing\" that same sentence on the same pitch. Notice: speaking and singing are closer than you think.",
+              "Pitch matching: Play a note on a piano app or tuner. Match it with \"Ah.\" Hold for 5 seconds. Use a tuner app to check accuracy.",
+              "Range exploration: Start on a comfortable note and sing downward on \"Ah\" until you can't go lower. Then go upward until it gets uncomfortable. That's your current range. Write it down."
+            ]
+          },
+          {
+            "heading": "",
+            "paragraphs": [
+              "Step 3: Chest Voice Control (Week 3–4)",
+              "Solidify your natural register. This is where most of your singing lives.",
+              "Exercise: \"Hey!\" projection × 10, increasing pitch by half steps",
+              "Exercise: 5-note scales on \"Mah\" — ascending, 3 minutes",
+              "Exercise: Simple song — focus on pitch only, ignore style",
+              "Duration: 15–20 minutes daily."
+            ],
+            "bullets": [
+              "Projection: Sing \"Hey!\" like calling someone across a room. Forward, bright, not forced. That placement is your target.",
+              "Simple scales: Sing 5-note ascending/descending scales on \"Mah\" or \"Nah.\" Stay in a comfortable range. Focus on steady, even tone — no wobble, no breathiness.",
+              "Song application: Pick a simple song in your comfortable range. Sing it focusing only on pitch accuracy and steady breath."
+            ]
+          },
+          {
+            "heading": "",
+            "paragraphs": [
+              "Step 4: Head Voice & Upper Range (Week 4–6)",
+              "Access your upper register without strain.",
+              "Exercise: \"Hoo\" on descending 5-note scales × 5, moving up",
+              "Exercise: Gentle sirens (bottom to top and back) on \"Woo\" × 10",
+              "Duration: 15–20 minutes daily. See Head Voice in the guide."
+            ],
+            "bullets": [
+              "Hooting: Make a gentle \"Hoo\" sound like an owl. That's head voice — light, resonant, no air leaking.",
+              "Descending scales: Start in head voice on a comfortable high note, sing down on \"Hoo\" through a 5-note scale. Descending is easier than ascending for head voice.",
+              "Sirens: Slide from chest voice up into head voice and back on \"Woo.\" Smooth, gentle, no cracking. If you crack, go lighter."
+            ]
+          },
+          {
+            "heading": "",
+            "paragraphs": [
+              "Step 5: Connecting the Registers (Week 6–8)",
+              "The transition zone (passaggio) is where most beginners struggle. This takes patience.",
+              "Exercise: Lip trills from low to high, full range × 10",
+              "Exercise: \"Nay\" on octave scale, ascending by half steps × 5",
+              "Exercise: \"Gee\" ascending scale through passaggio × 5",
+              "Duration: 15–20 minutes daily. See Mixed Voice in the guide."
+            ],
+            "bullets": [
+              "Lip trills through the break: Lip trill from low to high and back. The trill forces balanced airflow across the passaggio.",
+              "Bratty \"Nay\": Sing an octave scale on a bratty, nasal \"Nay.\" The twang keeps the cords together through the break zone.",
+              "Vowel narrowing: As you ascend, gradually shade open vowels toward closed ones (Ah → Oh → Oo). This is vowel modification — it prevents strain."
+            ]
+          },
+          {
+            "heading": "",
+            "paragraphs": [
+              "Step 6: Dynamics & Expression (Week 8+)",
+              "Now that you have control, add musical expression.",
+              "Exercise: Messa di voce on sustained \"Ah\" — soft → loud → soft × 5",
+              "Exercise: Sing one song with deliberate dynamic contrast",
+              "Duration: 20–30 minutes daily. See Dynamics in the guide."
+            ],
+            "bullets": [
+              "Volume control: Sing a sustained \"Ah\" — start soft, gradually get louder, then soft again. This is messa di voce .",
+              "Vibrato: Don't force it. Sing with good support on a sustained note. If vibrato appears naturally, let it. If not, keep working on support.",
+              "Song work: Take a song you know well. Sing it with intention — decide where to be soft, where to be loud, where to add emotion."
+            ]
+          },
+          {
+            "heading": "Daily Practice Routine (summary)",
+            "paragraphs": [
+              "Once you've progressed through the steps, use this as your daily structure:",
+              "Total: ~30 minutes. Consistency matters more than duration. 20 minutes every day beats 2 hours once a week."
+            ],
+            "bullets": [
+              "Warm-up (5 min) — Follow the warm-up routine",
+              "Breathing exercises (5 min) — Sustained hiss, rib expansion",
+              "Scales & technique (10 min) — 5-note scales, sirens, lip trills through range",
+              "Song work (10 min) — Apply technique to actual music",
+              "Cool-down (2 min) — Gentle humming, descending sighs, drink water"
+            ]
+          },
+          {
+            "heading": "",
+            "paragraphs": [
+              "Remember: This guide gives you a method, but a vocal coach gives you feedback . Even occasional lessons (monthly, bi-weekly) alongside self-practice will dramatically improve your results. Look for coaches who specialize in contemporary vocal technique (CVT, SLS, IVA, or similar evidence-based methods)."
+            ]
+          }
+        ]
+      },
+      "da": {
+        "title": "Begynderguide",
+        "sections": [
+          {
+            "heading": "",
+            "paragraphs": [
+              "Anbefaling: Hvis du kan tage sangtimer hos en vokalcoach, så gør det. En coach hører hvad du ikke kan, og forhindrer dårlige vaner i at blive til skader. Denne guide er en ledsager, ikke en erstatning for professionel undervisning."
+            ]
+          },
+          {
+            "heading": "Sådan bruger du denne guide",
+            "paragraphs": [
+              "Dette er en praktisk, trinvis metode. Følg trinene i rækkefølge. Hver øvelse bygger på den forrige. Brug den sammen med tekniktabellerne i hovedguiden."
+            ],
+            "bullets": [
+              "Øv konsekvent — korte daglige sessioner slår lange ugentlige",
+              "Optag dig selv — dine ører lyver for dig; optagelser gør ikke",
+              "Hvil når du er træt — vokal udmattelse er reel og kumulativ",
+              "Spring ikke opvarmning over — brug opvarmningsguiden hver gang"
+            ]
+          },
+          {
+            "heading": "",
+            "paragraphs": [
+              "Trin 1: Åndedrætsfundament (Uge 1–2)",
+              "Alt i sang afhænger af åndedrætskontrol. Mestr dette før du går videre.",
+              "Øvelse: 4-tæls indånding → 20-sekunders \"Sss\" udånding × 5 gentagelser",
+              "Øvelse: Ribbensudvidelse hold → langsom udånding på \"Fff\" × 5 gentagelser",
+              "Varighed: 10–15 minutter dagligt. Se Åndedrætsstøtte i guiden."
+            ],
+            "bullets": [
+              "Diafragmatisk åndedræt: Læg dig på ryggen med en bog på maven. Træk vejret så bogen løfter sig ved indånding og falder ved udånding. Brystet skal næsten ikke bevæge sig.",
+              "Vedvarende hvæs: Indånd 4 tæl, udånd på \"Sss\" så længe som muligt. Sigt mod 20 sekunder, så 30. Dette træner udåndingskontrol.",
+              "Ribbensudvidelse: Læg hænderne på siderne. Træk vejret så ribbenene skubbes udad. Hold udvidelsen mens du udånder langsomt. Dette er \"appoggio.\""
+            ]
+          },
+          {
+            "heading": "",
+            "paragraphs": [
+              "Trin 2: Find din stemme (Uge 2–3)",
+              "Opdag dit naturlige register og bliv fortrolig med at lave lyd.",
+              "Øvelse: Toneramning på enkelte toner, 5 sekunder hver × 10 toner",
+              "Øvelse: 5-tone nedadgående skala på \"Mah\" — start i midten, gå ned",
+              "Varighed: 10–15 minutter dagligt. Se Bryststemme i guiden."
+            ],
+            "bullets": [
+              "Talesang: Sig en sætning på din normale tonehøjde. \"Syng\" nu den samme sætning på samme tone. Bemærk: tale og sang er tættere på hinanden end du tror.",
+              "Toneramning: Spil en tone på en klaver-app eller tuner. Ram den med \"Åh.\" Hold i 5 sekunder. Brug en tuner-app til at tjekke præcisionen.",
+              "Registerudforskning: Start på en behagelig tone og syng nedad på \"Åh\" indtil du ikke kan komme lavere. Gå derefter opad indtil det bliver ubehageligt. Det er dit nuværende register. Skriv det ned."
+            ]
+          },
+          {
+            "heading": "",
+            "paragraphs": [
+              "Trin 3: Bryststemmekontrol (Uge 3–4)",
+              "Solidificér dit naturlige register. Det er her det meste af din sang lever.",
+              "Øvelse: \"Hej!\" projektion × 10, stigende tonehøjde i halvtoner",
+              "Øvelse: 5-tone skalaer på \"Mah\" — opadgående, 3 minutter",
+              "Øvelse: Simpel sang — fokusér kun på tonehøjde, ignorér stil",
+              "Varighed: 15–20 minutter dagligt."
+            ],
+            "bullets": [
+              "Projektion: Syng \"Hej!\" som om du kalder på nogen tværs over et rum. Fremadrettet, lyst, ikke forceret. Den placering er dit mål.",
+              "Simple skalaer: Syng 5-tone opadgående/nedadgående skalaer på \"Mah\" eller \"Nah.\" Bliv i et behageligt register. Fokusér på stabil, jævn tone — ingen vakling, ingen luftighed.",
+              "Sangapplicering: Vælg en simpel sang i dit behagelige register. Syng den med fokus kun på tonehøjdepræcision og stabilt åndedræt."
+            ]
+          },
+          {
+            "heading": "",
+            "paragraphs": [
+              "Trin 4: Hovedklang & øvre register (Uge 4–6)",
+              "Få adgang til dit øvre register uden belastning.",
+              "Øvelse: \"Hoo\" på nedadgående 5-tone skalaer × 5, ryk opad",
+              "Øvelse: Bløde sirener (bund til top og tilbage) på \"Woo\" × 10",
+              "Varighed: 15–20 minutter dagligt. Se Hovedklang i guiden."
+            ],
+            "bullets": [
+              "Uglelyd: Lav en blød \"Hoo\"-lyd som en ugle. Det er hovedklang — let, resonant, ingen luft lækker.",
+              "Nedadgående skalaer: Start i hovedklang på en behagelig høj tone, syng ned på \"Hoo\" gennem en 5-tone skala. Nedadgående er nemmere end opadgående for hovedklang.",
+              "Sirener: Glid fra bryststemme op i hovedklang og tilbage på \"Woo.\" Jævnt, blødt, ingen knak. Hvis du knækker over, gå lettere."
+            ]
+          },
+          {
+            "heading": "",
+            "paragraphs": [
+              "Trin 5: Forbind registrene (Uge 6–8)",
+              "Overgangszonen (passaggio) er der hvor de fleste begyndere kæmper. Det kræver tålmodighed.",
+              "Øvelse: Læbetriller fra lavt til højt, fuldt register × 10",
+              "Øvelse: \"Næ\" på oktavskala, stigende i halvtoner × 5",
+              "Øvelse: \"Gee\" opadgående skala gennem passaggio × 5",
+              "Varighed: 15–20 minutter dagligt. Se Mixstemme i guiden."
+            ],
+            "bullets": [
+              "Læbetriller gennem bruddet: Læbetril fra lavt til højt og tilbage. Trillen tvinger balanceret luftstrøm over passaggioen.",
+              "Frækt \"Næ\": Syng en oktavskala på et frækt, nasalt \"Næ.\" Twanget holder stemmebåndene sammen gennem brudzonen.",
+              "Vokalindsnævring: Når du stiger, skift gradvist åbne vokaler mod lukkede (Ah → Oh → Oo). Det er vokalmodifikation — det forebygger belastning."
+            ]
+          },
+          {
+            "heading": "",
+            "paragraphs": [
+              "Trin 6: Dynamik & udtryk (Uge 8+)",
+              "Nu hvor du har kontrol, tilføj musikalsk udtryk.",
+              "Øvelse: Messa di voce på holdt \"Åh\" — svagt → kraftigt → svagt × 5",
+              "Øvelse: Syng én sang med bevidst dynamisk kontrast",
+              "Varighed: 20–30 minutter dagligt. Se Dynamik i guiden."
+            ],
+            "bullets": [
+              "Volumenkontrol: Syng en holdt \"Åh\" — start svagt, bliv gradvist kraftigere, så svagt igen. Det er messa di voce .",
+              "Vibrato: Tving det ikke. Syng med god støtte på en holdt tone. Hvis vibrato dukker op naturligt, lad det komme. Hvis ikke, bliv ved med at arbejde på støtten.",
+              "Sangarbejde: Tag en sang du kender godt. Syng den med intention — beslut hvor du vil være blød, hvor kraftig, hvor du tilføjer følelse."
+            ]
+          },
+          {
+            "heading": "Daglig øvelsesrutine (opsummering)",
+            "paragraphs": [
+              "Når du er kommet igennem trinene, brug dette som din daglige struktur:",
+              "Total: ~30 minutter. Konsistens er vigtigere end varighed. 20 minutter hver dag slår 2 timer én gang om ugen."
+            ],
+            "bullets": [
+              "Opvarmning (5 min) — Følg opvarmningsrutinen",
+              "Åndedrætsøvelser (5 min) — Vedvarende hvæs, ribbensudvidelse",
+              "Skalaer & teknik (10 min) — 5-tone skalaer, sirener, læbetriller gennem registret",
+              "Sangarbejde (10 min) — Anvend teknik på rigtig musik",
+              "Nedkøling (2 min) — Blød nynnen, nedadgående suk, drik vand"
+            ]
+          },
+          {
+            "heading": "",
+            "paragraphs": [
+              "Husk: Denne guide giver dig en metode, men en vokalcoach giver dig feedback . Selv lejlighedsvise lektioner (månedligt, hver anden uge) sammen med selvøvelse vil dramatisk forbedre dine resultater. Kig efter coaches der specialiserer sig i moderne vokalteknik (CVT, SLS, IVA, eller lignende evidensbaserede metoder)."
+            ]
+          }
+        ]
+      }
+    },
+    "warmup": {
+      "en": {
+        "title": "Warm-Up Routine",
+        "sections": [
+          {
+            "heading": "Before You Sing (checklist)",
+            "paragraphs": [],
+            "bullets": [
+              "Drink water — room temperature, not cold. Hydrate 30+ minutes before singing.",
+              "Check your posture — feet shoulder-width, shoulders back and down, chin level.",
+              "Release tension — roll your neck, shrug and drop shoulders, shake out your arms.",
+              "No cold starts — never belt, distort, or push range without warming up first."
+            ]
+          },
+          {
+            "heading": "5-Minute Warm-Up (do in order)",
+            "paragraphs": [],
+            "bullets": [
+              "Breathing (1 min) — Inhale 4 counts into belly/sides/back. Exhale on \"Sss\" for 15–20 seconds. Repeat 3x. This activates your support system.",
+              "Lip Trills (1 min) — Blow air through closed lips to make them vibrate. Slide up and down your range. Keeps everything relaxed and connected.",
+              "Humming (1 min) — Hum on \"Mmm\" through 5-note scales, ascending. Feel the buzz in your face (mask resonance). Keep jaw and tongue loose.",
+              "Vowel Slides (1 min) — Sing \"Mee-Meh-Mah-Moh-Moo\" on a single note, then move up by half steps. Opens the vocal tract gradually.",
+              "Sirens (1 min) — Slide from bottom to top and back on \"Woo\" or \"Wee.\" Full range, gentle, no pushing. This bridges your registers."
+            ]
+          },
+          {
+            "heading": "Extended Warm-Up (add 5 more minutes)",
+            "paragraphs": [],
+            "bullets": [
+              "Straw phonation — Sing through a straw (or into a cup of water with a straw). Creates back-pressure that balances airflow and fold closure. Best warm-up tool available.",
+              "Tongue trills — Roll your tongue on \"Rr\" while singing scales. Releases tongue tension (a common problem).",
+              "Arpeggios — 1-3-5-8-5-3-1 on \"Nay\" or \"Gee\" to work through your passaggio (break area).",
+              "Gentle belting prep — \"Hey!\" calls on ascending 5ths. Forward placement, no strain."
+            ]
+          }
+        ]
+      },
+      "da": {
+        "title": "Opvarmningsrutine",
+        "sections": [
+          {
+            "heading": "Før du synger (tjekliste)",
+            "paragraphs": [],
+            "bullets": [
+              "Drik vand — stuetemperatur, ikke koldt. Hydrér 30+ minutter før sang.",
+              "Tjek din kropsholdning — fødder i skulderbredde, skuldre tilbage og ned, hagen lige.",
+              "Slip spændinger — rul nakken, træk skuldrene op og slip, ryst armene.",
+              "Ingen koldstart — belt, forvrængning eller ekstremt register aldrig uden opvarmning."
+            ]
+          },
+          {
+            "heading": "5-minutters opvarmning (gør i rækkefølge)",
+            "paragraphs": [],
+            "bullets": [
+              "Åndedræt (1 min) — Indånd 4 tæl ned i mave/sider/ryg. Udånd på \"Sss\" i 15–20 sekunder. Gentag 3x. Dette aktiverer dit støttesystem.",
+              "Læbetriller (1 min) — Blæs luft gennem lukkede læber så de vibrerer. Glid op og ned i dit register. Holder alt afslappet og forbundet.",
+              "Nynne (1 min) — Nyn på \"Mmm\" gennem 5-tone skalaer, opadgående. Mærk summen i ansigtet (maskeresonans). Hold kæbe og tunge løs.",
+              "Vokalglid (1 min) — Syng \"Mii-Meh-Mah-Moh-Muu\" på én tone, flyt derefter op i halvtoner. Åbner stemmekanalen gradvist.",
+              "Sirener (1 min) — Glid fra bund til top og tilbage på \"Woo\" eller \"Wii.\" Fuldt register, blidt, ingen pres. Dette forbinder dine registre."
+            ]
+          },
+          {
+            "heading": "Udvidet opvarmning (tilføj 5 minutter mere)",
+            "paragraphs": [],
+            "bullets": [
+              "Sugerørsfonation — Syng gennem et sugerør (eller ned i et glas vand med sugerør). Skaber modtryk der balancerer luftstrøm og stemmebåndslukning. Bedste opvarmningsværktøj.",
+              "Tungetriller — Rul tungen på \"Rr\" mens du synger skalaer. Frigør tungespænding (et almindeligt problem).",
+              "Arpeggioer — 1-3-5-8-5-3-1 på \"Næ\" eller \"Gii\" for at arbejde gennem din passaggio (brudzone).",
+              "Blid belting-forberedelse — \"Hej!\" kald på stigende kvinter. Fremadrettet placering, ingen belastning."
+            ]
+          }
+        ]
+      }
+    },
+    "anatomy": {
+      "en": {
+        "title": "Anatomy & Preparation",
+        "sections": [
+          {
+            "heading": "The Diaphragm",
+            "paragraphs": [
+              "A dome-shaped muscle beneath your lungs. When you inhale, it flattens downward, pulling air in. You don't directly \"sing from your diaphragm\" — you use it to control the rate of exhalation. Think of it as an air pressure regulator, not a sound source."
+            ]
+          },
+          {
+            "heading": "Vocal Folds (Cords)",
+            "paragraphs": [
+              "Two small folds of tissue in your larynx. When air passes through, they vibrate and create sound. Thicker vibration = chest voice. Thinner vibration = head voice. Partial closure = falsetto/breathy. The space between them is called the glottis."
+            ]
+          },
+          {
+            "heading": "The Larynx",
+            "paragraphs": [
+              "Your \"voice box.\" It can move up (bright, thin sound) or down (dark, warm sound). For most singing, a neutral or slightly lowered larynx is ideal. A high larynx under pressure = strain. Learn to keep it stable — yawning gently while singing helps find the right position."
+            ]
+          },
+          {
+            "heading": "Supporting Muscles",
+            "paragraphs": [],
+            "bullets": [
+              "Abdominals — Control exhalation pressure. They don't push air out — they slow the collapse of the rib cage.",
+              "Intercostals — Muscles between your ribs. Keep your ribs expanded during singing. This is \"appoggio\" (leaning into the breath).",
+              "Back muscles — Often forgotten. Your lower back expands when breathing correctly. Engage it for support."
+            ]
+          },
+          {
+            "heading": "Posture",
+            "paragraphs": [
+              "Stand with feet shoulder-width apart. Knees slightly bent (not locked). Shoulders relaxed, back and down. Chest comfortably open. Head balanced on top of the spine — not jutting forward. Imagine a string pulling you up from the crown of your head."
+            ]
+          },
+          {
+            "heading": "Vocal Health",
+            "paragraphs": [],
+            "bullets": [
+              "Hydration — Drink water consistently throughout the day, not just before singing. Your vocal folds need systemic hydration.",
+              "Steam inhalation — Breathe steam for 10 minutes before heavy singing. This directly hydrates the folds.",
+              "Rest — Your voice needs recovery time. Avoid talking loudly after intense sessions.",
+              "Avoid — Whispering (worse than talking), excessive throat clearing, smoking, dehydrating drinks (alcohol, excessive caffeine)."
+            ]
+          }
+        ]
+      },
+      "da": {
+        "title": "Anatomi & forberedelse",
+        "sections": [
+          {
+            "heading": "Mellemgulvet (diafragma)",
+            "paragraphs": [
+              "En kuppelformet muskel under dine lunger. Når du indånder, flader den nedad og trækker luft ind. Du \"synger\" ikke direkte \"fra mellemgulvet\" — du bruger det til at kontrollere udåndingshastigheden. Tænk på det som en lufttrykregulator, ikke en lydkilde."
+            ]
+          },
+          {
+            "heading": "Stemmebånd",
+            "paragraphs": [
+              "To små folder af væv i dit strubehoved. Når luft passerer igennem, vibrerer de og skaber lyd. Tykkere vibration = bryststemme. Tyndere vibration = hovedklang. Delvis lukning = falset/luftig. Mellemrummet mellem dem kaldes glottis."
+            ]
+          },
+          {
+            "heading": "Struben (larynx)",
+            "paragraphs": [
+              "Din \"stemmeboks.\" Den kan bevæge sig op (lys, tynd lyd) eller ned (mørk, varm lyd). Til de fleste former for sang er en neutral eller let sænket strube ideel. En høj strube under pres = belastning. Lær at holde den stabil — at gabe blidt mens du synger hjælper med at finde den rette position."
+            ]
+          },
+          {
+            "heading": "Støttemuskulatur",
+            "paragraphs": [],
+            "bullets": [
+              "Mavemuskler — Kontrollerer udåndingstrykket. De presser ikke luft ud — de bremser brystkassens sammenfalden.",
+              "Interkostalmuskler — Muskler mellem ribbenene. Hold ribbenene udvidet under sang. Dette er \"appoggio\" (at læne sig ind i åndedrættet).",
+              "Rygmuskler — Ofte glemt. Din lænd udvider sig ved korrekt åndedræt. Aktivér den for støtte."
+            ]
+          },
+          {
+            "heading": "Kropsholdning",
+            "paragraphs": [
+              "Stå med fødderne i skulderbredde. Knæene let bøjede (ikke låste). Skuldrene afslappet, tilbage og ned. Brystet komfortabelt åbent. Hovedet balanceret oven på rygsøjlen — ikke skudt fremad. Forestil dig en snor der trækker dig op fra issen."
+            ]
+          },
+          {
+            "heading": "Stemmesundhed",
+            "paragraphs": [],
+            "bullets": [
+              "Hydrering — Drik vand konsekvent hele dagen, ikke kun før sang. Dine stemmebånd har brug for systemisk hydrering.",
+              "Dampinhalation — Indånd damp i 10 minutter før intens sang. Dette hydrerer stemmebåndene direkte.",
+              "Hvile — Din stemme har brug for restitution. Undgå at tale højt efter intense sessioner.",
+              "Undgå — Hvisken (værre end at tale), overdreven rømmen, rygning, dehydrerende drikke (alkohol, for meget koffein)."
+            ]
+          }
+        ]
+      }
+    },
+    "myths": {
+      "en": {
+        "title": "Vocal Myths & Bad Advice",
+        "sections": [
+          {
+            "heading": "",
+            "paragraphs": [
+              "Common advice that's misleading, incomplete, or outright harmful. If someone tells you any of these, be skeptical."
+            ]
+          },
+          {
+            "heading": "\"Sing from your diaphragm\"",
+            "paragraphs": [
+              "You can't directly control your diaphragm — it's an involuntary muscle on the inhale. What people mean is: use your abdominal and intercostal muscles to control exhalation. Saying \"sing from your diaphragm\" is like saying \"digest from your stomach.\" Technically involved, but not how you'd teach it."
+            ]
+          },
+          {
+            "heading": "\"Drink tea with honey to fix your voice\"",
+            "paragraphs": [
+              "Tea and honey never touch your vocal folds — they go down your esophagus, not your trachea. They can soothe throat irritation and feel nice, but they don't \"fix\" or \"coat\" your cords. What actually helps: steam inhalation and systemic hydration (water, hours in advance)."
+            ]
+          },
+          {
+            "heading": "\"Chest voice means singing from your chest\"",
+            "paragraphs": [
+              "The sound isn't produced in your chest. \"Chest voice\" refers to the thick vocal fold vibration pattern that creates sympathetic resonance you feel in your upper torso. The sound is always made at the vocal folds in your larynx."
+            ]
+          },
+          {
+            "heading": "\"Falsetto is only for men\"",
+            "paragraphs": [
+              "Everyone with vocal folds can produce falsetto — it's a mode of vibration where the folds don't fully close. Women use it too, though the timbral difference from head voice may be less dramatic."
+            ]
+          },
+          {
+            "heading": "\"Whiskey and cigarettes give you a raspy voice\"",
+            "paragraphs": [
+              "They give you a damaged voice. The \"rasp\" from smoking and alcohol comes from swollen, irritated, dehydrated folds. Healthy vocal distortion uses the false folds and arytenoids — structures above the true cords. One is controlled art, the other is permanent damage."
+            ]
+          },
+          {
+            "heading": "\"Push harder for high notes\"",
+            "paragraphs": [
+              "The exact opposite. High notes require less air, not more. Pushing more air at higher pitches forces the folds apart and creates strain. Think \"less air, more compression\" — let the folds do the work."
+            ]
+          },
+          {
+            "heading": "\"Vibrato should be added artificially\"",
+            "paragraphs": [
+              "Artificial vibrato (jaw wobble, diaphragm pulse) sounds unnatural and creates tension. Real vibrato emerges naturally when breath support is solid and the throat is relaxed. If you don't have vibrato yet, the fix is better technique — not manufacturing it."
+            ]
+          },
+          {
+            "heading": "\"You're either born with it or you're not\"",
+            "paragraphs": [
+              "Singing is a motor skill. Some people have natural advantages (vocal fold length, resonance cavity size), but technique, pitch accuracy, tone quality, and range are all trainable. Most \"natural\" singers practiced obsessively as children."
+            ]
+          },
+          {
+            "heading": "\"Warm-ups are optional\"",
+            "paragraphs": [
+              "Your vocal folds are tissue. They need increased blood flow and gradual stretching before heavy use — just like any other muscle. Cold singing is the fastest path to strain, nodules, and hemorrhages."
+            ]
+          },
+          {
+            "heading": "\"Pain means you're building strength\"",
+            "paragraphs": [
+              "Pain means damage. Unlike skeletal muscles, vocal folds don't grow stronger from micro-tears. Pain, burning, or persistent hoarseness = stop immediately. Rest. If it lasts more than a few days, see an ENT specialist."
+            ]
+          }
+        ]
+      },
+      "da": {
+        "title": "Vokale myter & dårlige råd",
+        "sections": [
+          {
+            "heading": "",
+            "paragraphs": [
+              "Almindelige råd der er misvisende, ufuldstændige eller direkte skadelige. Hvis nogen fortæller dig noget af dette, vær skeptisk."
+            ]
+          },
+          {
+            "heading": "\"Syng fra mellemgulvet\"",
+            "paragraphs": [
+              "Du kan ikke direkte kontrollere dit mellemgulv — det er en ufrivillig muskel ved indånding. Det folk mener er: brug dine mave- og interkostalmuskler til at kontrollere udåndingen. At sige \"syng fra mellemgulvet\" er som at sige \"fordøj fra maven.\""
+            ]
+          },
+          {
+            "heading": "\"Drik te med honning for at fikse din stemme\"",
+            "paragraphs": [
+              "Te og honning rører aldrig dine stemmebånd — de går ned i spiserøret, ikke luftrøret. De kan lindre halsirritation, men de \"fikser\" eller \"coater\" ikke dine bånd. Det der virkelig hjælper: dampinhalation og systemisk hydrering (vand, timer i forvejen)."
+            ]
+          },
+          {
+            "heading": "\"Bryststemme betyder at synge fra brystet\"",
+            "paragraphs": [
+              "Lyden produceres ikke i brystet. \"Bryststemme\" refererer til det tykke stemmebåndsvibrationsmønster der skaber sympatisk resonans du mærker i overkroppen. Lyden laves altid ved stemmebåndene i struben."
+            ]
+          },
+          {
+            "heading": "\"Falset er kun for mænd\"",
+            "paragraphs": [
+              "Alle med stemmebånd kan producere falset — det er en vibrationsmåde hvor båndene ikke lukker helt. Kvinder bruger det også, selvom den klanglige forskel fra hovedklang kan være mindre dramatisk."
+            ]
+          },
+          {
+            "heading": "\"Whiskey og cigaretter giver dig en hæs stemme\"",
+            "paragraphs": [
+              "De giver dig en skadet stemme. \"Raspen\" fra rygning og alkohol kommer fra hævede, irriterede, dehydrerede bånd. Sund vokal distortion bruger de falske folder og arytenoiderne — strukturer over de rigtige bånd. Det ene er kontrolleret kunst, det andet er permanent skade."
+            ]
+          },
+          {
+            "heading": "\"Pres hårdere for høje toner\"",
+            "paragraphs": [
+              "Det stik modsatte. Høje toner kræver mindre luft, ikke mere. At presse mere luft ved højere tonehøjder tvinger båndene fra hinanden og skaber belastning. Tænk \"mindre luft, mere kompression.\""
+            ]
+          },
+          {
+            "heading": "\"Vibrato skal tilføjes kunstigt\"",
+            "paragraphs": [
+              "Kunstig vibrato (kæbevrikken, mellemgulvspuls) lyder unaturligt og skaber spænding. Ægte vibrato opstår naturligt når åndedrætsstøtten er solid og halsen er afslappet. Har du ikke vibrato endnu, er løsningen bedre teknik — ikke at fabrikere det."
+            ]
+          },
+          {
+            "heading": "\"Man er enten født med det eller ej\"",
+            "paragraphs": [
+              "Sang er en motorisk færdighed. Nogle har naturlige fordele, men teknik, tonehøjdepræcision, klangkvalitet og register er alt sammen trænbart. De fleste \"naturlige\" sangere øvede bessat som børn."
+            ]
+          },
+          {
+            "heading": "\"Opvarmning er valgfrit\"",
+            "paragraphs": [
+              "Dine stemmebånd er væv. De har brug for øget blodgennemstrømning og gradvis udstrækning før hård brug — ligesom enhver anden muskel. Kold sang er den hurtigste vej til belastning, knuder og blødninger."
+            ]
+          },
+          {
+            "heading": "\"Smerte betyder du bygger styrke\"",
+            "paragraphs": [
+              "Smerte betyder skade. Til forskel fra skeletmuskler bliver stemmebånd ikke stærkere af mikro-rifter. Smerte, svíen eller vedvarende hæshed = stop straks. Hvil. Varer det mere end et par dage, søg en øre-næse-hals-specialist."
+            ]
+          }
+        ]
+      }
+    },
+    "cvt": {
+      "en": {
+        "title": "CVT vs Traditional Terminology",
+        "sections": [
+          {
+            "heading": "",
+            "paragraphs": [
+              "This guide uses traditional vocal terminology (chest voice, head voice, mixed voice, etc.) because it's the most widely understood framework worldwide. However, the most scientifically validated system is Complete Vocal Technique (CVT) , developed by Cathrine Sadolin at the Complete Vocal Institute in Copenhagen.",
+              "CVT is built on laryngoscopic imaging, EGG measurements, and peer-reviewed acoustic research. Here's how the two frameworks relate."
+            ]
+          },
+          {
+            "heading": "The Four CVT Modes",
+            "paragraphs": [
+              "CVT classifies all singing into four modes based on vocal tract configuration — not felt vibration:"
+            ],
+            "table": {
+              "headers": [
+                "CVT Mode",
+                "Character",
+                "Vowels",
+                "Volume"
+              ],
+              "rows": [
+                [
+                  "Neutral",
+                  "Soft, open, non-metallic. Widest range of sounds.",
+                  "All vowels",
+                  "1–4 / 10"
+                ],
+                [
+                  "Curbing",
+                  "Restrained, held back, emotional. A \"light hold.\"",
+                  "UH, O, OO",
+                  "4–7 / 10"
+                ],
+                [
+                  "Overdrive",
+                  "Clear, direct, shouty. Like calling out loudly.",
+                  "EH, OH",
+                  "4–10 / 10"
+                ],
+                [
+                  "Edge",
+                  "Sharp, bright, twangy. Distinct epiglottic funnel.",
+                  "I, EH, A, OE",
+                  "4–10 / 10"
+                ]
+              ]
+            }
+          },
+          {
+            "heading": "Three Overall Principles (CVT Foundation)",
+            "paragraphs": [],
+            "bullets": [
+              "Support — Coordinated abdominal, waist, solar plexus, and back muscle engagement to control air pressure and airflow. (This guide: Breath Support)",
+              "Necessary Twang — Narrowing the epiglottic funnel for clearer, more efficient sound. CVT considers this foundational for all healthy singing, not just a style. (This guide: Twang)",
+              "Avoid protruding jaw & tightened lips — These trigger uncontrolled vocal cord constriction, especially in upper register. (Not explicitly covered in this guide)"
+            ]
+          },
+          {
+            "heading": "Mapping: Traditional ↔ CVT",
+            "paragraphs": [],
+            "table": {
+              "headers": [
+                "This Guide (Traditional)",
+                "CVT Equivalent",
+                "Notes"
+              ],
+              "rows": [
+                [
+                  "Chest Voice",
+                  "Overdrive / Edge",
+                  "Depends on vowel and intensity"
+                ],
+                [
+                  "Head Voice",
+                  "Neutral (fuller density)",
+                  "Full fold closure, lighter weight"
+                ],
+                [
+                  "Falsetto",
+                  "Neutral (reduced density)",
+                  "Partial fold closure, airy"
+                ],
+                [
+                  "Mixed Voice",
+                  "Curbing / Edge",
+                  "CVT doesn't use \"mixed voice\" — mode transitions handle this"
+                ],
+                [
+                  "Vocal Fry",
+                  "—",
+                  "Not a CVT mode; classified separately"
+                ],
+                [
+                  "Whistle Register",
+                  "—",
+                  "Not a CVT mode; classified separately"
+                ],
+                [
+                  "Belting",
+                  "Overdrive or Edge",
+                  "Overdrive: EH/OH vowels. Edge: I/EH/A/OE vowels"
+                ],
+                [
+                  "Twang",
+                  "Necessary Twang + Edge",
+                  "Foundational principle; Edge requires maximum twang"
+                ],
+                [
+                  "Breathy Singing",
+                  "Neutral + air effect",
+                  "Only Neutral permits audible air"
+                ],
+                [
+                  "Distortion / Overdrive",
+                  "Effects (on any mode)",
+                  "\"Overdrive\" in CVT is a clean mode, not distortion"
+                ],
+                [
+                  "Breath Support",
+                  "Support (1st principle)",
+                  "Same concept, CVT's first pillar"
+                ],
+                [
+                  "Cry / Sob",
+                  "Curbing quality",
+                  "Restrained, emotional hold"
+                ]
+              ]
+            }
+          },
+          {
+            "heading": "Key Differences",
+            "paragraphs": [],
+            "bullets": [
+              "Vowel rules: CVT restricts specific vowels per mode. Traditional pedagogy uses general vowel modification. Both work, but CVT is more precise.",
+              "Metal & Density: CVT uses \"degree of metal\" (0–100%) and \"density\" (fuller vs. reduced) as parameters. Traditional pedagogy doesn't have these concepts.",
+              "\"Overdrive\" means different things: In this guide, overdrive = heavy vocal distortion (like guitar overdrive). In CVT, Overdrive = a clean, shouty vocal mode."
+            ]
+          },
+          {
+            "heading": "",
+            "paragraphs": [
+              "Learn more: completevocalinstitute.com Look for expandable CVT note annotations on technique cards throughout this guide."
+            ]
+          }
+        ]
+      },
+      "da": {
+        "title": "CVT vs traditionel terminologi",
+        "sections": [
+          {
+            "heading": "",
+            "paragraphs": [
+              "Denne guide bruger traditionel vokalterminologi (bryststemme, hovedklang, mixstemme osv.) fordi det er den mest udbredte ramme globalt. Men det mest videnskabeligt validerede system er Complete Vocal Technique (CVT) , udviklet af Cathrine Sadolin på Complete Vocal Institute i København.",
+              "CVT er bygget på laryngoskopisk billeddannelse, EGG-målinger og peer-reviewed akustisk forskning. Her er hvordan de to systemer hænger sammen."
+            ]
+          },
+          {
+            "heading": "De fire CVT-modes",
+            "paragraphs": [
+              "CVT klassificerer al sang i fire modes baseret på stemmekanalens konfiguration — ikke følt vibration:"
+            ],
+            "table": {
+              "headers": [
+                "CVT Mode",
+                "Karakter",
+                "Vokaler",
+                "Volumen"
+              ],
+              "rows": [
+                [
+                  "Neutral",
+                  "Blød, åben, ikke-metallisk. Bredeste lydspektrum.",
+                  "Alle vokaler",
+                  "1–4 / 10"
+                ],
+                [
+                  "Curbing",
+                  "Tilbageholdt, emotionel. Et \"let hold.\"",
+                  "UH, O, OO",
+                  "4–7 / 10"
+                ],
+                [
+                  "Overdrive",
+                  "Klar, direkte, råbende. Som at kalde højt.",
+                  "EH, OH",
+                  "4–10 / 10"
+                ],
+                [
+                  "Edge",
+                  "Skarp, lys, twanget. Tydelig epiglottisk tragt.",
+                  "I, EH, A, OE",
+                  "4–10 / 10"
+                ]
+              ]
+            }
+          },
+          {
+            "heading": "Tre overordnede principper (CVT-fundament)",
+            "paragraphs": [],
+            "bullets": [
+              "Støtte (Support) — Koordineret aktivering af mave-, talje-, solar plexus- og rygmuskler til kontrol af lufttryk og luftstrøm. (Denne guide: Breath Support)",
+              "Nødvendig twang — Indsnævring af den epiglottiske tragt for klarere, mere effektiv lyd. CVT betragter dette som grundlæggende for al sund sang, ikke kun en stilart. (Denne guide: Twang)",
+              "Undgå fremskudt kæbe & stramme læber — Disse udløser ukontrolleret stemmebåndssammensnøring, særligt i det høje register. (Ikke eksplicit dækket i denne guide)"
+            ]
+          },
+          {
+            "heading": "Kortlægning: Traditionel ↔ CVT",
+            "paragraphs": [],
+            "table": {
+              "headers": [
+                "Denne guide (Traditionel)",
+                "CVT-ækvivalent",
+                "Noter"
+              ],
+              "rows": [
+                [
+                  "Chest Voice",
+                  "Overdrive / Edge",
+                  "Afhænger af vokal og intensitet"
+                ],
+                [
+                  "Head Voice",
+                  "Neutral (fuld densitet)",
+                  "Fuld foldlukning, lettere vægt"
+                ],
+                [
+                  "Falsetto",
+                  "Neutral (reduceret densitet)",
+                  "Delvis foldlukning, luftig"
+                ],
+                [
+                  "Mixed Voice",
+                  "Curbing / Edge",
+                  "CVT bruger ikke \"mixstemme\" — mode-skift håndterer dette"
+                ],
+                [
+                  "Vocal Fry",
+                  "—",
+                  "Ikke en CVT-mode; klassificeret separat"
+                ],
+                [
+                  "Whistle Register",
+                  "—",
+                  "Ikke en CVT-mode; klassificeret separat"
+                ],
+                [
+                  "Belting",
+                  "Overdrive eller Edge",
+                  "Overdrive: EH/OH-vokaler. Edge: I/EH/A/OE-vokaler"
+                ],
+                [
+                  "Twang",
+                  "Nødvendig Twang + Edge",
+                  "Grundlæggende princip; Edge kræver maksimal twang"
+                ],
+                [
+                  "Breathy Singing",
+                  "Neutral + lufteffekt",
+                  "Kun Neutral tillader hørbar luft"
+                ],
+                [
+                  "Distortion / Overdrive",
+                  "Effekter (på enhver mode)",
+                  "\"Overdrive\" i CVT er en ren mode, ikke forvrængning"
+                ],
+                [
+                  "Breath Support",
+                  "Support (1. princip)",
+                  "Samme koncept, CVTs første søjle"
+                ],
+                [
+                  "Cry / Sob",
+                  "Curbing-kvalitet",
+                  "Tilbageholdt, emotionelt hold"
+                ]
+              ]
+            }
+          },
+          {
+            "heading": "Centrale forskelle",
+            "paragraphs": [],
+            "bullets": [
+              "Vokalregler: CVT begrænser specifikke vokaler per mode. Traditionel pædagogik bruger generel vokalmodifikation. Begge virker, men CVT er mere præcis.",
+              "Metal & densitet: CVT bruger \"grad af metal\" (0–100%) og \"densitet\" (fuld vs. reduceret) som parametre. Traditionel pædagogik har ikke disse koncepter.",
+              "\"Overdrive\" betyder forskellige ting: I denne guide betyder overdrive = tung vokal forvrængning (som guitar-overdrive). I CVT er Overdrive = en ren, råbende vokalmode."
+            ]
+          },
+          {
+            "heading": "",
+            "paragraphs": [
+              "Lær mere: completevocalinstitute.com Se efter udvidbare CVT note -annotationer på teknikkort i hele guiden."
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
